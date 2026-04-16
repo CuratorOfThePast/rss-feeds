@@ -1,0 +1,11 @@
+# Feed Registry -- single source of truth for all feed generators.
+#
+# To add a new feed:
+#   1. Create feed_generators/<name>.py
+#   2. Add an entry here
+
+feeds:
+  bundesarchiv:
+    script: bundesarchiv_blog.py
+    type: requests
+    blog_url: https://www.bundesarchiv.de/aktuelles/

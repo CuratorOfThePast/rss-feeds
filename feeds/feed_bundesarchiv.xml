@@ -1,0 +1,2146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bundesarchiv Aktuelles</title>
+    <link>https://www.bundesarchiv.de/aktuelles/</link>
+    <description>Neueste Nachrichten aus dem Bundesarchiv</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_bundesarchiv.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.bundesarchiv.de/typo3conf/ext/dreipc_bstu/Resources/Public/Frontend/assets/media/ci/logo_bundesarchiv.svg</url>
+      <title>Bundesarchiv Aktuelles</title>
+      <link>https://www.bundesarchiv.de/aktuelles/</link>
+    </image>
+    <language>de</language>
+    <lastBuildDate>Thu, 16 Apr 2026 22:50:44 +0000</lastBuildDate>
+    <item>
+      <title>"Eine sehr gute Entscheidung"</title>
+      <link>https://www.bundesarchiv.de/nachricht/eine-sehr-gute-entscheidung/</link>
+      <description>Am 28. Januar 2011 hat der Deutsche Bundestag mit großer Mehrheit den Journalisten Roland Jahn zum künftigen Bundesbeauftragten für die Stasi-Unterlagen gewählt. Er tritt sein Amt als Nachfolger Marianne Birthlers Mitte März 2011 an.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/eine-sehr-gute-entscheidung/</guid>
+      <pubDate>Fri, 28 Jan 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Die Vergangenheit studieren um der Gegenwart und Zukunft willen"</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-vergangenheit-studieren-um-der-gegenwart-und-zukunft-willen/</link>
+      <description>Am Abend des 14. März 2011 endete die mehr als zehnjährige Amtszeit von Marianne Birthler als Bundesbeauftragte für die Stasi-Unterlagen (BStU). In ihrer Abschiedsrede ging sie auf Kritiker ein, auf die europäische Dimension der Diktatur-Aufarbeitung, auf die wachsende Relevanz der Bildungsarbeit der BStU und auf europaweit fehlendes Geschichtsbewusstsein.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-vergangenheit-studieren-um-der-gegenwart-und-zukunft-willen/</guid>
+      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grünes Licht für überarbeitetes Stasi-Unterlagen-Gesetz</title>
+      <link>https://www.bundesarchiv.de/nachricht/gruenes-licht-fuer-ueberarbeitetes-stasi-unterlagengesetz/</link>
+      <description>Der Bundestag hat am 30. September 2011 die achte Änderung des Stasi-Unterlagen-Gesetzes beschlossen. Die Novelle des Stasi-Unterlagen-Gesetzes wurde am Mittag nach einer einstündigen, kontroversen Debatte mit den Stimmen der schwarz-gelben Koalition angenommen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/gruenes-licht-fuer-ueberarbeitetes-stasi-unterlagengesetz/</guid>
+      <pubDate>Thu, 22 Sep 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundestags-Gutachten veröffentlicht</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundestags-gutachten-veroeffentlicht/</link>
+      <description>Welchen Einfluss nahm das Ministerium für Staatssicherheit (MfS) auf die Mitglieder des Deutschen Bundestags in den Jahren 1949 bis 1989? Ein Gutachten des BStU widmet sich erstmals umfassend diesem Thema.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundestags-gutachten-veroeffentlicht/</guid>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debatte um IM-Zahlen</title>
+      <link>https://www.bundesarchiv.de/nachricht/debatte-um-im-zahlen/</link>
+      <description>Die Forschungsabteilung des BStU gibt Einschätzung zur Diskussion um die Größenordnung der Anzahl inoffizieller Mitarbeiter (IM)</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/debatte-um-im-zahlen/</guid>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>25. Jahrestag der Stasi-Besetzung</title>
+      <link>https://www.bundesarchiv.de/nachricht/25-jahrestag-der-stasi-besetzung/</link>
+      <description>Rund 7.000 Besucher kamen zum Bürgertag in der ehemaligen Stasi-Zentrale. Ziele waren Debatten, Archiv und neu gestaltetes Stasi-Museum, 25 Jahre nach Entmachtung des MfS.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/25-jahrestag-der-stasi-besetzung/</guid>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wirtschaftsreformen und Beat-Revolte</title>
+      <link>https://www.bundesarchiv.de/nachricht/wirtschaftsreformen-und-beat-revolte/</link>
+      <description>Das 11. Plenum des ZK der SED im Dezember des Jahres 1965 verordnete die Rücknahme zentraler Reformprogramme in der Wirtschafts-, Jugend- und Kulturpolitik. Zeitzeugen und Experten diskutierten am 10. Februar 2015 im Grünen Salon der Volksbühne über die Hintergründe und Auswirkungen des sogenannten "Kahlschlag-Plenums".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/wirtschaftsreformen-und-beat-revolte/</guid>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>25 Jahre Stasi-Unterlagen-Gesetz</title>
+      <link>https://www.bundesarchiv.de/nachricht/25-jahre-stasi-unterlagen-gesetz/</link>
+      <description>Umgang mit Dokumenten staatlichen Unrechts auf rechtsstaatlicher Basis: Das Stasi-Unterlagen-Gesetz startete 1991 als einmaliges Experiment – und wird nun 25 Jahre alt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/25-jahre-stasi-unterlagen-gesetz/</guid>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundespräsident Joachim Gauck zu Gast im Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundespraesident-joachim-gauck-zu-gast-im-stasi-unterlagen-archiv/</link>
+      <description>Als Bundespräsident kehrte der erste Bundesbeauftragte für die Stasi-Unterlagen Joachim Gauck am 13. Januar 2017 in das Stasi-Unterlagen-Archiv zurück. Sein Besuch stand in zeitlichem Kontext der Erinnerung an das Erstürmen der Stasi-Zentrale am 15. Januar 1990 sowie des 25. Jahrestags der ersten Akteneinsicht auf Basis des Stasi-Unterlagen-Gesetzes am 2. Januar 1992.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundespraesident-joachim-gauck-zu-gast-im-stasi-unterlagen-archiv/</guid>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übergabe des 13. Tätigkeitsberichts an den Deutschen Bundestag</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebergabe-des-13-taetigkeitsberichts-an-den-deutschen-bundestag/</link>
+      <description>Der Bundesbeauftragte für die Stasi-Unterlagen, Roland Jahn, hat heute dem Präsidenten des Deutschen Bundestages, Prof. Dr. Norbert Lammert, den 13. Tätigkeitsbericht der Stasi-Unterlagen-Behörde übergeben.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebergabe-des-13-taetigkeitsberichts-an-den-deutschen-bundestag/</guid>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ein neuer Internetauftritt für das Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/ein-neuer-internetauftritt-fuer-das-bundesarchiv/</link>
+      <description>Ein neuer Internetauftritt für das Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ein-neuer-internetauftritt-fuer-das-bundesarchiv/</guid>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kabinettsprotokolle der Bundesregierung des Jahres 1986 jetzt online</title>
+      <link>https://www.bundesarchiv.de/nachricht/kabinettsprotokolle-der-bundesregierung-des-jahres-1986-jetzt-online/</link>
+      <description>Kabinettsprotokolle der Bundesregierung des Jahres 1986 jetzt online</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kabinettsprotokolle-der-bundesregierung-des-jahres-1986-jetzt-online/</guid>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lüth-Urteil: Akten des Bundesverfassungsgerichts einsehbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/lueth-urteil-akten-des-bundesverfassungsgerichts-einsehbar/</link>
+      <description>Lüth-Urteil: Akten des Bundesverfassungsgerichts einsehbar</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/lueth-urteil-akten-des-bundesverfassungsgerichts-einsehbar/</guid>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Präsentation des Bundesarchivs auf der Berlinale</title>
+      <link>https://www.bundesarchiv.de/nachricht/praesentation-des-bundesarchivs-auf-der-berlinale/</link>
+      <description>Präsentation des Bundesarchivs auf der Berlinale</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/praesentation-des-bundesarchivs-auf-der-berlinale/</guid>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Dankeschön für den Tag bei Ihnen!"</title>
+      <link>https://www.bundesarchiv.de/nachricht/dankeschoen-fuer-den-tag-bei-ihnen/</link>
+      <description>"Dankeschön für den Tag bei Ihnen!"</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/dankeschoen-fuer-den-tag-bei-ihnen/</guid>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Online-Portal des Bundesarchivs zur Weimarer Republik freigeschaltet</title>
+      <link>https://www.bundesarchiv.de/nachricht/online-portal-des-bundesarchivs-zur-weimarer-republik-freigeschaltet/</link>
+      <description>Online-Portal des Bundesarchivs zur Weimarer Republik freigeschaltet</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/online-portal-des-bundesarchivs-zur-weimarer-republik-freigeschaltet/</guid>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akten des Staatlichen Kunsthandels der DDR erschlossen</title>
+      <link>https://www.bundesarchiv.de/nachricht/akten-des-staatlichen-kunsthandels-der-ddr-erschlossen/</link>
+      <description>Die Unterlagen des Bestandes DR 144 VEH Bildende Kunst und Antiquitäten sind jetzt über die Rechercheanwendung invenio online recherchierbar.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/akten-des-staatlichen-kunsthandels-der-ddr-erschlossen/</guid>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EHRI-Portal erhält Auszeichnung des "Prix Ars Electronica"</title>
+      <link>https://www.bundesarchiv.de/nachricht/ehri-portal-erhaelt-auszeichnung-des-prix-ars-electronica/</link>
+      <description>EHRI-Portal erhält Auszeichnung des "Prix Ars Electronica"</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ehri-portal-erhaelt-auszeichnung-des-prix-ars-electronica/</guid>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Irren ist Wissenschaft</title>
+      <link>https://www.bundesarchiv.de/nachricht/irren-ist-wissenschaft/</link>
+      <description>Irren ist Wissenschaft</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/irren-ist-wissenschaft/</guid>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neue Dauerausstellung "Einblick ins Geheime" eröffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/neue-dauerausstellung/</link>
+      <description>Am vergangenen Samstag öffnete die neue Dauerausstellung "Einblick ins Geheime" zum ersten Mal ihre Türen für die Öffentlichkeit. Begleitet wurde der Tag von einem umfangreichen Programm.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neue-dauerausstellung/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Im Museumssommer zum historischen Ort</title>
+      <link>https://www.bundesarchiv.de/nachricht/im-museumssommer-zum-historischen-ort/</link>
+      <description>Einen besonderen Rundgang  zum Berliner Museumssommer gibt es am Dienstag, 7. August, in der neuen Ausstellung "Einblick ins Geheime". Die Öffnungszeiten sind verlängert, der Eintritt ist frei.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/im-museumssommer-zum-historischen-ort/</guid>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Bundesarchiv ist dabei!</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-bundesarchiv-ist-dabei/</link>
+      <description>Das Bundesarchiv ist dabei!</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-bundesarchiv-ist-dabei/</guid>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weitere Fotos aus der Zeit der Weimarer Republik online</title>
+      <link>https://www.bundesarchiv.de/nachricht/weitere-fotos-aus-der-zeit-der-weimarer-republik-online/</link>
+      <description>Weitere Fotos aus der Zeit der Weimarer Republik online</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/weitere-fotos-aus-der-zeit-der-weimarer-republik-online/</guid>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Otto Dov Kulka, Eberhard Jäckel (†) (Hgg.): Die Juden in den geheimen NS-Stimmungsberichten 1933-1945</title>
+      <link>https://www.bundesarchiv.de/nachricht/otto-dov-kulka-eberhard-jaeckel-hgg-die-juden-in-den-geheimen-ns-stimmungsberichten-1933-1945/</link>
+      <description>Otto Dov Kulka, Eberhard Jäckel (†) (Hgg.): Die Juden in den geheimen NS-Stimmungsberichten 1933-1945</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/otto-dov-kulka-eberhard-jaeckel-hgg-die-juden-in-den-geheimen-ns-stimmungsberichten-1933-1945/</guid>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Gundermann" - Der Film</title>
+      <link>https://www.bundesarchiv.de/nachricht/gundermann-der-film/</link>
+      <description>Im Kino wird der Liedermacher und Baggerfahrer Gerhard Gundermann dieser Tage wieder lebendig. Schon zu Lebzeiten galt er als eine Identifikationsfigur in der DDR. 1998 starb er früh und unerwartet. Regisseur Andreas Dresen drehte im Stasi-Unterlagen-Archiv die Filmszene, in der Gundermanns Tätigkeit als Inoffizieller Mitarbeiter der Stasi offenkundig wird.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/gundermann-der-film/</guid>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lange Nacht der Museen in der Stasi-Zentrale</title>
+      <link>https://www.bundesarchiv.de/nachricht/lange-nacht-der-museen-in-der-stasi-zentrale/</link>
+      <description>Zur Langen Nacht der Museen präsentiert sich die Stasi-Zentrale mit drei Ausstellungen zu den Schwerpunkten Repression, Revolution und Aufklärung. Das Gelände ist bequem mit der U-Bahnlinie U 5 in wenigen Minuten vom Alexanderplatz zu erreichen. Der Busshuttle durch Kulturprojekte Berlin ist kurzfristig wegen Straßensperrungen abgesagt worden.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/lange-nacht-der-museen-in-der-stasi-zentrale/</guid>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geschichte(n) aus dem Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/geschichten-aus-dem-bundesarchiv/</link>
+      <description>Geschichte(n) aus dem Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/geschichten-aus-dem-bundesarchiv/</guid>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Austausch über Umgang mit NATO-Unterlagen</title>
+      <link>https://www.bundesarchiv.de/nachricht/austausch-ueber-umgang-mit-nato-unterlagen/</link>
+      <description>Austausch über Umgang mit NATO-Unterlagen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/austausch-ueber-umgang-mit-nato-unterlagen/</guid>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch des UN-Sonderberichterstatters zum Recht auf Privatsphäre</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-des-un-sonderbe/</link>
+      <description>UN-Sonderberichterstatter zum Recht auf Privatsphäre Prof. Joe Cannataci machte bei seinem Berlin-Besuch auch einen Abstecher ins Stasi-Unterlagen-Archiv. Bei seinem Rundgang waren das Karteikartensystem der Stasi, die IM-Akten sowie das Konzept des Campus für Demokratie Thema.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-des-un-sonderbe/</guid>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tag der Deutschen Einheit 2018 in Berlin</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-der-deutschen-einheit-2018-in-berlin/</link>
+      <description>Unter dem Motto "Nur mit Euch" findet vom 1. bis 3. Oktober 2018 die Feier zum Tag der Deutschen Einheit in Berlin statt. Das Stasi-Unterlagen-Archiv ist mit einem Informationsstand, Beratungsangeboten, einer Ausstellung und Veranstaltungen beim größten Bürgerfest der Bundesrepublik Deutschland vertreten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-der-deutschen-einheit-2018-in-berlin/</guid>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seelsorger zu Besuch im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/seelsorger-zu-besuch-im-bundesarchiv/</link>
+      <description>Seelsorger zu Besuch im Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/seelsorger-zu-besuch-im-bundesarchiv/</guid>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>88. Deutscher Archivtag 2018</title>
+      <link>https://www.bundesarchiv.de/nachricht/88-deutscher-archivtag-2018/</link>
+      <description>Der diesjährige Archivtag findet unter dem Motto "Verlässlich, richtig, echt - Demokratie braucht Archive!" vom 25. bis 28. September in Rostock statt. Das Stasi-Unterlagen-Archiv war mit verschiedenen Themen dort vertreten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/88-deutscher-archivtag-2018/</guid>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch aus der Schweiz</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-aus-der-schweiz-1/</link>
+      <description>Der amtierende Schweizer Nationalratspräsident Dominique de Buman und seine Delegation verbrachten während ihrer Deutschland-Visite einen Sonntagnachmittag im Stasi-Unterlagen-Archiv und der "Stasi-Zentrale. Campus für Demokratie". Der Bundesbeauftragte Roland Jahn brachte den Besuchern die Angebote des Geländes näher und tauschte sich mit ihnen über die Aufarbeitung der SED-Diktatur aus.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-aus-der-schweiz-1/</guid>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Das schweigende Klassenzimmer"</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-schweigende-klassenzimmer/</link>
+      <description>"Der Film macht deutlich, wie schwierig es in dieser Zeit war, seine Meinung zu vertreten" – in der ehemaligen "Stasi-Zentrale. Campus für Demokratie" diskutierten 120 Schülerinnen und Schüler mit Schauspielerin Lena Klenke über ihre Rolle in "Das schweigende Klassenzimmer".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-schweigende-klassenzimmer/</guid>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apotheken-Urteil: Akten des Bundesverfassungsgerichts einsehbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/apotheken-urteil-akten-des-bundesverfassungsgerichts-einsehbar/</link>
+      <description>Apotheken-Urteil: Akten des Bundesverfassungsgerichts einsehbar</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/apotheken-urteil-akten-des-bundesverfassungsgerichts-einsehbar/</guid>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intensives Interesse aus Taiwan</title>
+      <link>https://www.bundesarchiv.de/nachricht/intensives-interesse-aus-taiwan/</link>
+      <description>Eine Delegation der Kuomintang, der früheren Herrschaftspartei Taiwans, die heute die größte Oppositionspartei im taiwanesischen Parlament ist, kam mit einer langen Liste an Fragen ins Stasi-Unterlagen-Archiv. Sie hatte großes Interesse an den Grundlagen des Zugangs zu den Stasi- und Parteiakten der SED sowie der Wirkung des Zugangs auf die Gesellschaft.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/intensives-interesse-aus-taiwan/</guid>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arbeitsbesuch tschechischer Gäste bei der Abteilung Militärarchiv in Freiburg</title>
+      <link>https://www.bundesarchiv.de/nachricht/arbeitsbesuch-tschechischer-gaeste-bei-der-abteilung-militaerarchiv-in-freiburg/</link>
+      <description>Arbeitsbesuch tschechischer Gäste bei der Abteilung Militärarchiv in Freiburg</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/arbeitsbesuch-tschechischer-gaeste-bei-der-abteilung-militaerarchiv-in-freiburg/</guid>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Erinnern für die Zukunft"</title>
+      <link>https://www.bundesarchiv.de/nachricht/erinnern-fuer-die-zukunft/</link>
+      <description>„Erinnern für die Zukunft? Was geht uns DDR-Geschichte heute noch an?“: Unter diesem Titel diskutierten der Bundesbeauftragte Roland Jahn und die Bundestagsabgeordneten Silke Launert und Thomas Hacker zur Eröffnung der BStU-Wanderausstellung „Feind ist, wer anders denkt“ in Bayreuth. Noch bis zum 28. November ist die Ausstellung im Neuen Rathaus in Bayreuth zu sehen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/erinnern-fuer-die-zukunft/</guid>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Von Leinwandgöttinnen und Powerfrauen" - Weiblichkeit im deutschen Film</title>
+      <link>https://www.bundesarchiv.de/nachricht/von-leinwandgoettinnen-und-powerfrauen-weiblichkeit-im-deutschen-film/</link>
+      <description>"Von Leinwandgöttinnen und Powerfrauen" - Weiblichkeit im deutschen Film</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/von-leinwandgoettinnen-und-powerfrauen-weiblichkeit-im-deutschen-film/</guid>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andrea Nahles zu Gast in der ehemaligen Stasi-Zentrale</title>
+      <link>https://www.bundesarchiv.de/nachricht/andrea-nahles-zu-gast-in-der-ehemaligen/</link>
+      <description>Treffen an einem historischen Ort: Andrea Nahles, Vorsitzende der SPD-Bundestagsfraktion und SPD-Chefin, hat die Robert-Havemann-Gesellschaft und das Stasi-Unterlagen-Archiv besucht. Dabei tauschten sich die Gesprächteilnehmerinnen und -teilnehmer über Fragen der Aufarbeitung aus.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/andrea-nahles-zu-gast-in-der-ehemaligen/</guid>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akten des Reichskolonialamtes online</title>
+      <link>https://www.bundesarchiv.de/nachricht/akten-des-reichskolonialamtes-online/</link>
+      <description>Der für Forschungen zur Kolonialgeschichte zentrale Bestand R 1001 des Bundesarchivs kann in digitalisierter Form über die Rechercheanwendung invenio genutzt werden.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/akten-des-reichskolonialamtes-online/</guid>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10. Band der ZAIG-Reihe erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/10-band-der-zaig-reih/</link>
+      <description>Ab 1953 verfasste die Zentrale Auswertungs- und Informationsgruppe (ZAIG) der Staatssicherheit Berichte an die Partei- und Staatsführung der SED. In der Quellenedition "Die DDR im Blick der Stasi" werden die Berichte der ZAIG vollständig und ungekürzt veröffentlicht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/10-band-der-zaig-reih/</guid>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weitere digitalisierte Bestände im Quellenportal "Weimar - Die erste deutsche Demokratie"</title>
+      <link>https://www.bundesarchiv.de/nachricht/weitere-digitalisierte-bestaende-im-quellenportal-weimar-die-erste-deutsche-demokratie/</link>
+      <description>Weitere digitalisierte Bestände im Quellenportal "Weimar - Die erste deutsche Demokratie"</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/weitere-digitalisierte-bestaende-im-quellenportal-weimar-die-erste-deutsche-demokratie/</guid>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workshop: Von der Theorie zur Praxis</title>
+      <link>https://www.bundesarchiv.de/nachricht/workshop-von-der-theorie-zur-praxis/</link>
+      <description>Workshop: Von der Theorie zur Praxis</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/workshop-von-der-theorie-zur-praxis/</guid>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erste Sitzung des Beirats des BStU in neuer Zusammensetzung</title>
+      <link>https://www.bundesarchiv.de/nachricht/beirat-des-bstu-in-neu/</link>
+      <description>Am 20. November ist der Beirat des BStU zu seiner regelmäßigen Sitzung zusammengetreten. Für einige Mitglieder war es die erste Sitzung nach ihrer Berufung. Der Beirat tauschte sich in seiner Sitzung in der ehemaligen Stasi-Zentrale über aktuelle Fragen der Behörde des Bundesbeauftragten aus.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/beirat-des-bstu-in-neu/</guid>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jahresband 1973 der Kabinettsprotokolle der Bundesregierung erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/jahresband-1973-der-kabinettsprotokolle-der-bundesregierung-erschienen/</link>
+      <description>Jahresband 1973 der Kabinettsprotokolle der Bundesregierung erschienen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/jahresband-1973-der-kabinettsprotokolle-der-bundesregierung-erschienen/</guid>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meilenstein im Prozess des digitalen Wandels</title>
+      <link>https://www.bundesarchiv.de/nachricht/meilenstein-im-prozess-des-digitalen-wandels/</link>
+      <description>Meilenstein im Prozess des digitalen Wandels</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/meilenstein-im-prozess-des-digitalen-wandels/</guid>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demokratie statt Diktatur</title>
+      <link>https://www.bundesarchiv.de/nachricht/demokratie-statt-diktatur-1-1/</link>
+      <description>70 Jahre nach der Verkündung der Allgemeinen Erklärung der Menschenrechte durch die Generalversammlung der Vereinten Nationen am 10. Dezember 1948 zeigt die Webseite www.demokratie-statt-diktatur.de, wie die Staatssicherheit im Auftrag der Staatspartei SED Menschenrechte verletzte. Anhand von zehn Menschenrechten und Stasi-Unterlagen wird deutlich, was das für die betroffenen Menschen bedeutet hat.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/demokratie-statt-diktatur-1-1/</guid>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Themenportal "Weimar" im Blog Href des DHI Washington</title>
+      <link>https://www.bundesarchiv.de/nachricht/themenportal-weimar-im-blog-href-des-dhi-washington/</link>
+      <description>Themenportal "Weimar" im Blog Href des DHI Washington</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/themenportal-weimar-im-blog-href-des-dhi-washington/</guid>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kabinettsprotokolle der Bundes­regierung des Jahres 1987 jetzt online</title>
+      <link>https://www.bundesarchiv.de/nachricht/kabinettsprotokolle-der-bundesshyregierung-des-jahres-1987-jetzt-online/</link>
+      <description>Kabinettsprotokolle der Bundes­regierung des Jahres 1987 jetzt online</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kabinettsprotokolle-der-bundesshyregierung-des-jahres-1987-jetzt-online/</guid>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workshop zur Überlieferungsbildung im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/workshop-zur-ueberlieferungsbildung-im-bundesarchiv/</link>
+      <description>Workshop zur Überlieferungsbildung im Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/workshop-zur-ueberlieferungsbildung-im-bundesarchiv/</guid>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MfS-Hausausweis für KGB-Offiziere</title>
+      <link>https://www.bundesarchiv.de/nachricht/hausausweis-war-uebliche-praxis/</link>
+      <description>Wer als Verbindungsoffizier des russischen Geheimdienstes KGB seinen Dienst in der DDR versah, wurde mit einem Hausausweis der zuständigen MfS-Dienststelle ausgestattet. Dies trifft auch auf den MfS-Hausausweis von Wladimir Putin zu, der in Dresden von 1985-1990 seinen Dienst als ein dem KGB-Verbindungsoffizier untergeordneter Offizier verrichtete.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/hausausweis-war-uebliche-praxis/</guid>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Neue Zugänge zu einem historischen Thema"</title>
+      <link>https://www.bundesarchiv.de/nachricht/neue-zugaenge-zu-einem-historischen-thema/</link>
+      <description>"Neue Zugänge zu einem historischen Thema"</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neue-zugaenge-zu-einem-historischen-thema/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übertragung der Aufgaben der Deutschen Dienststelle (WASt) an das Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebertragung-der-aufgaben-der-deutschen-dienststelle-wast-an-das-bundesarchiv/</link>
+      <description>Übertragung der Aufgaben der Deutschen Dienststelle (WASt) an das Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebertragung-der-aufgaben-der-deutschen-dienststelle-wast-an-das-bundesarchiv/</guid>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Der "Kupferkessel"</title>
+      <link>https://www.bundesarchiv.de/nachricht/der-kupferkessel/</link>
+      <description>In einem mit Kupferplatten verkleideten Raum plante die Stasi ein von der Außenwelt abgeschirmtes Rechenzentrum. Das Kupfer wurde im Jahr 2000 entfernt, um auch den Raum zur archivgerechten Lagerung von Unterlagen nutzen zu können. Nun übernimmt das Stasi-Unterlagen-Archiv einen kleinen Teil des Kupfers von der "Forschungsgruppe Kupferkessel", um es zu bewahren.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/der-kupferkessel/</guid>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vor 100 Jahren: Gründung der KPD und Ermordung von Rosa Luxemburg und Karl Liebknecht</title>
+      <link>https://www.bundesarchiv.de/nachricht/vor-100-jahren-gruendung-der-kpd-und-ermordung-von-rosa-luxemburg-und-karl-liebknecht/</link>
+      <description>Vor 100 Jahren: Gründung der KPD und Ermordung von Rosa Luxemburg und Karl Liebknecht</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/vor-100-jahren-gruendung-der-kpd-und-ermordung-von-rosa-luxemburg-und-karl-liebknecht/</guid>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Call for Papers: Kriegsfolgenarchivgut</title>
+      <link>https://www.bundesarchiv.de/nachricht/call-for-papers-kriegsfolgenarchivgut/</link>
+      <description>Call for Papers: Kriegsfolgenarchivgut</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/call-for-papers-kriegsfolgenarchivgut/</guid>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Alles gut vorbereitet? – Anforderungen an die Aussonderung von E-Akten“</title>
+      <link>https://www.bundesarchiv.de/nachricht/alles-gut-vorbereitet-anforderungen-an-die-aussonderung-von-e-akten/</link>
+      <description>„Alles gut vorbereitet? – Anforderungen an die Aussonderung von E-Akten“</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/alles-gut-vorbereitet-anforderungen-an-die-aussonderung-von-e-akten/</guid>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jahresband 1972 der Kabinetts­protokolle jetzt online verfügbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/jahresband-1972-der-kabinettsshyprotokolle-jetzt-online-verfuegbar/</link>
+      <description>Jahresband 1972 der Kabinetts­protokolle jetzt online verfügbar</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/jahresband-1972-der-kabinettsshyprotokolle-jetzt-online-verfuegbar/</guid>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DFG fördert Digitalisierung von Quellen zur Kolonialgeschichte und zur Besetzung des Rheinlandes</title>
+      <link>https://www.bundesarchiv.de/nachricht/dfg-foerdert-digitalisierung-von-quellen-zur-kolonialgeschichte-und-zur-besetzung-des-rheinlandes/</link>
+      <description>DFG fördert Digitalisierung von Quellen zur Kolonialgeschichte und zur Besetzung des Rheinlandes</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/dfg-foerdert-digitalisierung-von-quellen-zur-kolonialgeschichte-und-zur-besetzung-des-rheinlandes/</guid>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rekonstruktion von Stasi-Unterlagen</title>
+      <link>https://www.bundesarchiv.de/nachricht/rekonstruktion-von-stasi/</link>
+      <description>Seit Februar ist das in Berlin neu konstituierte Team zur manuellen Rekonstruktion mit neun Mitarbeiterinnen und Mitarbeitern dabei zu puzzeln. Erste Besucherin war Patricia Lips (CDU), Mitglied im Haushaltsausschuss des Deutschen Bundestages.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/rekonstruktion-von-stasi/</guid>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übergabe 14. Tätigkeits­bericht und Konzept Zukunft der Akten</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebergabe-14-taetigkeitsbericht-und-konzept-zukunft-der-akten/</link>
+      <description>Der Bundesbeauftragte für die Stasi-Unterlagen, Roland Jahn, hat heute dem Präsidenten des Deutschen Bundestages, Wolfgang Schäuble, den 14. Tätigkeitsbericht des Stasi-Unterlagen-Archivs übergeben und mit dem Präsidenten des Bundesarchivs das gemeinsame Konzept zur Zukunft der Akten vorgestellt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebergabe-14-taetigkeitsbericht-und-konzept-zukunft-der-akten/</guid>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konzept für die dauerhafte Sicherung der Stasi-Unterlagen übergeben</title>
+      <link>https://www.bundesarchiv.de/nachricht/konzept-fuer-die-dauerhafte-sicherung-der-stasi-unterlagen-uebergeben/</link>
+      <description>Konzept für die dauerhafte Sicherung der Stasi-Unterlagen übergeben</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/konzept-fuer-die-dauerhafte-sicherung-der-stasi-unterlagen-uebergeben/</guid>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frauen in der Nationalversammlung - "Mitwirken am Webstuhl der Zeit"</title>
+      <link>https://www.bundesarchiv.de/nachricht/frauen-in-der-nationalversammlung-mitwirken-am-webstuhl-der-zeit/</link>
+      <description>Frauen in der Nationalversammlung - "Mitwirken am Webstuhl der Zeit"</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/frauen-in-der-nationalversammlung-mitwirken-am-webstuhl-der-zeit/</guid>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die Funktion des Bundesarchivs im demokratischen System</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-funktion-des-bundesarchivs-im-demokratischen-system/</link>
+      <description>Die Funktion des Bundesarchivs im demokratischen System</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-funktion-des-bundesarchivs-im-demokratischen-system/</guid>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informationsveranstaltung für Erbenermittler</title>
+      <link>https://www.bundesarchiv.de/nachricht/informationsveranstaltung-fuer-erbenermittler/</link>
+      <description>Informationsveranstaltung für Erbenermittler</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/informationsveranstaltung-fuer-erbenermittler/</guid>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>E-ARK / eArchiving Building Block – auch für uns in Deutschland?</title>
+      <link>https://www.bundesarchiv.de/nachricht/e-ark-earchiving-building-block-auch-fuer-uns-in-deutschland/</link>
+      <description>E-ARK / eArchiving Building Block – auch für uns in Deutschland?</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/e-ark-earchiving-building-block-auch-fuer-uns-in-deutschland/</guid>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tag der Pressefreiheit auf dem Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit-auf-dem-campus-fuer-demokratie-1-1/</link>
+      <description>Über den Wert von Meinungs- und Pressefreiheit haben mehr als 100 Schülerinnen und Schüler mit Medienmachern, Bloggern und einer Exil-Journalistin in Berlin diskutiert. Die Erstplatzierten im Wettbewerb "Wir reden mit!" aus Darmstadt, Freyung und Neuss sowie Jugendliche aus Berlin waren zum Aktionstag in der "Stasi-Zentrale. Campus für Demokratie" .</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit-auf-dem-campus-fuer-demokratie-1-1/</guid>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koloniale Amnesie? - Koloniale Gedächtnisse!</title>
+      <link>https://www.bundesarchiv.de/nachricht/koloniale-amnesie-koloniale-gedaechtnisse/</link>
+      <description>Koloniale Amnesie? - Koloniale Gedächtnisse!</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/koloniale-amnesie-koloniale-gedaechtnisse/</guid>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Austausch beim UOKG-Verbändetreffen</title>
+      <link>https://www.bundesarchiv.de/nachricht/austausch-beim-uokg-verbae/</link>
+      <description>Was sind die „verborgenen Orte der Repression“ und welche Bedeutung haben sie für die Aufarbeitung und die Erinnerung an die SED-Diktatur? Dieses Thema stand im Zentrum des halbjährlichen Verbände-Treffens der UOKG (Union der Opferverbände der kommunistischen Gewaltherrschaft) am 15. und 16. Juni in der „Stasi-Zentrale. Campus für Demokratie“ in Berlin-Lichtenberg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/austausch-beim-uokg-verbae/</guid>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internationaler Besuch der Bosch-Stiftung</title>
+      <link>https://www.bundesarchiv.de/nachricht/internationaler-besuch-der-bosch-stiftung/</link>
+      <description>Wie soll die Erinnerung an vergangenes Unrecht gestaltet werden? Für die 25 internationalen Teilnehmerinnen und Teilnehmer des Berlin Seminars zu "Truth, Justice and Remembrance" der Robert Bosch Stiftung ist diese Frage eine Praxisaufgabe, für die sie im Juni 2019 auch im Stasi-Unterlagen-Archiv nach Anregungen suchten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/internationaler-besuch-der-bosch-stiftung/</guid>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 Jahre Bauhaus</title>
+      <link>https://www.bundesarchiv.de/nachricht/100-jahre-bauhaus/</link>
+      <description>100 Jahre Bauhaus</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/100-jahre-bauhaus/</guid>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 Jahre: Unterzeichnung des Versailler Vertrages</title>
+      <link>https://www.bundesarchiv.de/nachricht/100-jahre-unterzeichnung-des-versailler-vertrages/</link>
+      <description>100 Jahre: Unterzeichnung des Versailler Vertrages</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/100-jahre-unterzeichnung-des-versailler-vertrages/</guid>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch aus Leipzig</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-aus-leipzig/</link>
+      <description>Am 3. Juli war eine Delegation aus Leipzig unter Leitung des Oberbürgermeisters Burkhard Jung zu Gast in der "Stasi-Zentrale. Campus für Demokratie". Sie wollte sich vor Ort ansehen, wie sich Zivilgesellschaft und Staat auf einem Gelände, auf dem Bund, Land, Bezirk und Private aktiv sind, ins Benehmen setzen, um die Idee "Campus für Demokratie" voranzubringen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-aus-leipzig/</guid>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicherheitspolitischer Workshop in der Bundesarchiv-Erinnerungsstätte</title>
+      <link>https://www.bundesarchiv.de/nachricht/sicherheitspolitischer-workshop-in-der-bundesarchiv-erinnerungsstaette/</link>
+      <description>Mitglieder des Verteidigungsausschusses des Deutschen Bundestags im Gespräch mit Referendarinnen und Referendaren</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/sicherheitspolitischer-workshop-in-der-bundesarchiv-erinnerungsstaette/</guid>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturstaatsministerin zu Besuch im Bundesarchiv in Freiburg</title>
+      <link>https://www.bundesarchiv.de/nachricht/kulturstaatsministerin-zu-besuch-im-bundesarchiv-in-freiburg/</link>
+      <description>Kulturstaatsministerin zu Besuch im Bundesarchiv in Freiburg</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kulturstaatsministerin-zu-besuch-im-bundesarchiv-in-freiburg/</guid>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erzwungene Dekolonisierung</title>
+      <link>https://www.bundesarchiv.de/nachricht/erzwungene-dekolonisierung/</link>
+      <description>Erzwungene Dekolonisierung</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/erzwungene-dekolonisierung/</guid>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vor 100 Jahren: Die Weimarer Verfassung tritt in Kraft</title>
+      <link>https://www.bundesarchiv.de/nachricht/vor-100-jahren-die-weimarer-verfassung-tritt-in-kraft/</link>
+      <description>Vor 100 Jahren: Die Weimarer Verfassung tritt in Kraft</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/vor-100-jahren-die-weimarer-verfassung-tritt-in-kraft/</guid>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stasi-Akten lesen</title>
+      <link>https://www.bundesarchiv.de/nachricht/stasi-akten-lesen/</link>
+      <description>Führungen, Vorträge und Beispielakten lockten viele Besucher in die ehemalige Stasi-Zentrale nach Lichtenberg. In der Langen Nacht der Museen erfuhren unter anderem Besucher der Taschenlampenführung viel über das Gelände und die historischen Gebäude.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/stasi-akten-lesen/</guid>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netzwerktreffen in Bratislava</title>
+      <link>https://www.bundesarchiv.de/nachricht/netzwerktreffen-in-bratislava/</link>
+      <description>Zum diesjährigen Treffen des "Europäischen Netzwerks der für die Geheimpolizeiakten zuständigen Behörden" hatte turnusgemäß das slowakische UPN eingeladen, das Institut für Nationales Gedenken. Der BStU stellte beim jährlichen Treffen das Konzept zur Zukuft der Stasi-Unterlagen vor. Das Treffen ist die zentrale Aktivität des Netzwerks und dient dem Austausch über aktuelle Entwicklungen in den sieben Mitgliedsländern und sechs Gastländern.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/netzwerktreffen-in-bratislava/</guid>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundestag bestätigt Konzept zur Zukunft der Stasi-Unterlagen</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundestag-bestaetigt-konzept-zur-zukunft-der-1-1/</link>
+      <description>Der Deutsche Bundestag hat das vom Bundesbeauftragten für die Stasi-Unterlagen (BStU), Roland Jahn, und dem Präsidenten des Bundesarchivs, Dr. Michael Hollmann, vorgelegte Konzept zur Zukunft der Stasi-Unterlagen bestätigt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundestag-bestaetigt-konzept-zur-zukunft-der-1-1/</guid>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tausende feiern am Tag der Deutschen Einheit in Kiel</title>
+      <link>https://www.bundesarchiv.de/nachricht/tausende-feiern-am-tag-der-deutschen-einheit-in-kiel/</link>
+      <description>Zwei Tage lang fand das große Bürgerfest zum Tag der Deutschen Einheit in Kiel statt. Auch das Stasi-Unterlagen-Archiv war mit einem Stand vertreten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tausende-feiern-am-tag-der-deutschen-einheit-in-kiel/</guid>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weitere zentrale Quellen zur Geschichte der Weimarer Republik online zugänglich</title>
+      <link>https://www.bundesarchiv.de/nachricht/weitere-zentrale-quellen-zur-geschichte-der-weimarer-republik-online-zugaenglich/</link>
+      <description>Weitere zentrale Quellen zur Geschichte der Weimarer Republik online zugänglich</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/weitere-zentrale-quellen-zur-geschichte-der-weimarer-republik-online-zugaenglich/</guid>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 Jahre Friedliche Revolution - Mauerfall</title>
+      <link>https://www.bundesarchiv.de/nachricht/30-jahre-friedliche-revolution-mauerfall/</link>
+      <description>Mit über 200 Veranstaltungen an sieben Orten begeht Berlin das 30-jährige Jubiläum der Friedlichen Revolution und des Mauerfalls in diesem Herbst. Mit dabei ist auch die "Stasi-Zentrale. Campus für Demokratie", wo die Partner vor Ort ein vielfältiges Programm anbieten. Während der gesamten Woche werden Teile der Innenhoffassaden mit großflächigen 3D-Videoprojektionen inszeniert.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/30-jahre-friedliche-revolution-mauerfall/</guid>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch aus der Ukraine</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-aus-der-ukraine/</link>
+      <description>Im Rahmen eines Austauschprogramms von Cultural Vistas besuchte eine Gruppe aus der Ukraine das Stasi-Unterlagen-Archiv und tauschte sich mit BStU Roland Jahn zu Fragen der Aufarbeitung der Vergangenheit aus.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-aus-der-ukraine/</guid>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beitrag des Bundesarchivs zum Tag des audiovisuellen Erbes</title>
+      <link>https://www.bundesarchiv.de/nachricht/beitrag-des-bundesarchivs-zum-tag-des-audiovisuellen-erbes/</link>
+      <description>Beitrag des Bundesarchivs zum Tag des audiovisuellen Erbes</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/beitrag-des-bundesarchivs-zum-tag-des-audiovisuellen-erbes/</guid>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 Jahre Reichsarchiv - Rückblick auf die Fachkonferenz des Bundesarchivs</title>
+      <link>https://www.bundesarchiv.de/nachricht/100-jahre-reichsarchiv-rueckblick-auf-die-fachkonferenz-des-bundesarchivs/</link>
+      <description>100 Jahre Reichsarchiv - Rückblick auf die Fachkonferenz des Bundesarchivs</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/100-jahre-reichsarchiv-rueckblick-auf-die-fachkonferenz-des-bundesarchivs/</guid>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weitere digitalisierte Quellen der Abteilung Militärarchiv online zugänglich</title>
+      <link>https://www.bundesarchiv.de/nachricht/weitere-digitalisierte-quellen-der-abteilung-militaerarchiv-online-zugaenglich/</link>
+      <description>Weitere digitalisierte Quellen der Abteilung Militärarchiv online zugänglich</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/weitere-digitalisierte-quellen-der-abteilung-militaerarchiv-online-zugaenglich/</guid>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Offene Archive</title>
+      <link>https://www.bundesarchiv.de/nachricht/offene-archive/</link>
+      <description>Die "Stasi-Zentrale. Campus für Demokratie" war in diesem Jahr Gastgeber der 5. Tagung des Arbeitskreises Offene Archive im VdA, dem Verband deutscher Archivarinnen und Archivare. 140 Gäste debattierten lebhaft über die Möglichkeiten und Chancen erweiterter Öffnung von Archiven in digitalen Zeiten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/offene-archive/</guid>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinesische Fachdelegationen zu Gast beim Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/chinesische-fachdelegationen-zu-gast-beim-bundesarchiv/</link>
+      <description>Chinesische Fachdelegationen zu Gast beim Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/chinesische-fachdelegationen-zu-gast-beim-bundesarchiv/</guid>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kriegsfolgenarchivgut – Rückblick auf eine Tagung im Lastenausgleichsarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/kriegsfolgenarchivgut-rueckblick-auf-eine-tagung-im-lastenausgleichsarchiv/</link>
+      <description>Kriegsfolgenarchivgut – Rückblick auf eine Tagung im Lastenausgleichsarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kriegsfolgenarchivgut-rueckblick-auf-eine-tagung-im-lastenausgleichsarchiv/</guid>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tausende Besucher während der Festivalwoche zu 30 Jahren Friedlicher Revolution und Mauerfall</title>
+      <link>https://www.bundesarchiv.de/nachricht/grosser-andrang-waehrend-der-festivalwoche-zu-30-jahren-friedlicher-revolution-und-mauerfall/</link>
+      <description>An sieben Tagen und an sieben Orten widmete sich die Berliner Festivalwoche dem 30. Jubiläum der Friedlichen Revolution und des Mauerfalls. Auch die "Stasi-Zentrale. Campus für Demokratie" lockte mit vielfältigen Veranstaltungen und Themenführungen Tausende Besucherinnen und Besucher.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/grosser-andrang-waehrend-der-festivalwoche-zu-30-jahren-friedlicher-revolution-und-mauerfall/</guid>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Eins und Eins macht Zwei!" Traumpaare des deutschen Films</title>
+      <link>https://www.bundesarchiv.de/nachricht/eins-und-eins-macht-zwei-traumpaare-des-deutschen-films/</link>
+      <description>"Eins und Eins macht Zwei!" Traumpaare des deutschen Films</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/eins-und-eins-macht-zwei-traumpaare-des-deutschen-films/</guid>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3. Berliner Archivtag 2019</title>
+      <link>https://www.bundesarchiv.de/nachricht/3-berliner-archivtag-2019/</link>
+      <description>Im 30. Jahr von Friedlicher Revolution und Mauerfall stand der Berliner Archivtag unter dem Thema "Immer zu spät? Umbrüche im Archiv oder wie überliefert man Revolutionen?". Neben der Überlieferung historischer und gesellschaftlicher Umbrüche ging es bei der Tagung auch um die Digitalisierung als Umbruch im Archivwesen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/3-berliner-archivtag-2019/</guid>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besetzung von Stasi-Dienststellen in den Regionen</title>
+      <link>https://www.bundesarchiv.de/nachricht/besetzung-von-stasi-dienststellen-in-den-regionen/</link>
+      <description>Im Dezember 1989 besetzten mutige DDR-Bürgerinnen und Bürger die regionalen Dienststellen der Stasi, um die Vernichtung der Akten zu stoppen. Viele Standorte des Stasi-Unterlagen-Archivs erinnern mit verschiedenen Veranstaltungen und Angeboten an die Besetzungen vor 30 Jahren.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besetzung-von-stasi-dienststellen-in-den-regionen/</guid>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die Bundesanstalt für Geowissenschaften und Rohstoffe setzt auf das Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/default-5628dd4efe97e6b5e414f0e0584f2408/</link>
+      <description>Die Bundesanstalt für Geowissenschaften und Rohstoffe setzt auf das Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/default-5628dd4efe97e6b5e414f0e0584f2408/</guid>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die Kabinettsprotokolle der Bundesregierung des Jahres 1988 sind jetzt online</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-kabinettsprotokolle-der-bundesregierung-des-jahres-1988-sind-jetzt-online/</link>
+      <description>Die Kabinettsprotokolle der Bundesregierung des Jahres 1988 sind jetzt online</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-kabinettsprotokolle-der-bundesregierung-des-jahres-1988-sind-jetzt-online/</guid>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DFG-Projekt "Retrokonversion von Findmitteln" erfolgreich abgeschlossen</title>
+      <link>https://www.bundesarchiv.de/nachricht/dfg-projekt-retrokonversion-von-findmitteln-erfolgreich-abgeschlossen/</link>
+      <description>DFG-Projekt "Retrokonversion von Findmitteln" erfolgreich abgeschlossen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/dfg-projekt-retrokonversion-von-findmitteln-erfolgreich-abgeschlossen/</guid>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Stasi raus, es ist aus!"</title>
+      <link>https://www.bundesarchiv.de/nachricht/stasi-raus-es-ist-au/</link>
+      <description>Bei einem Pressegespräch am historischen Ort der Erstürmung der Stasi-Zentrale stellten die Spielemacher und die Kooperationspartner BStU und DDR Museum das neue Kartenspiel "Stasi raus, es ist aus!" vor.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/stasi-raus-es-ist-au/</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digitalisierung beim Bundesarchiv – Dimensionen und aktuelle Planungen</title>
+      <link>https://www.bundesarchiv.de/nachricht/digitalisierung-beim-bundesarchiv-dimensionen-und-aktuelle-planungen/</link>
+      <description>Digitalisierung beim Bundesarchiv – Dimensionen und aktuelle Planungen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/digitalisierung-beim-bundesarchiv-dimensionen-und-aktuelle-planungen/</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundespräsident Steinmeier besucht Campus und Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundespraesident-steinmeier-besucht-campus-und-archiv/</link>
+      <description>Am 15. Januar, zum 30. Jahrestag der Erstürmung der Stasi-Zentrale, besuchte Bundespräsident Frank-Walter Steinmeier den Campus für Demokratie und das Stasi-Unterlagen-Archiv. Bei seinem Besuch würdigte er den Mut der Besetzerinnen und Besetzer und mahnte zur Wachsamkeit in der Demokratie.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundespraesident-steinmeier-besucht-campus-und-archiv/</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuer Band der "Akten der Reichskanzlei" erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/neuer-band-der-akten-der-reichskanzlei-erschienen/</link>
+      <description>Neuer Band der "Akten der Reichskanzlei" erschienen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neuer-band-der-akten-der-reichskanzlei-erschienen/</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verpasste Chancen und verhinderte Katastrophen – Die Gründung der Weimarer Republik 1918-1920</title>
+      <link>https://www.bundesarchiv.de/nachricht/verpasste-chancen-und-verhinderte-katastrophen-die-gruendung-der-weimarer-republik-1918-1920/</link>
+      <description>Verpasste Chancen und verhinderte Katastrophen – Die Gründung der Weimarer Republik 1918-1920</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/verpasste-chancen-und-verhinderte-katastrophen-die-gruendung-der-weimarer-republik-1918-1920/</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digitalisierungsprojekt zu Haft-Unterlagen</title>
+      <link>https://www.bundesarchiv.de/nachricht/digitalisierungsprojekt-zu-haft-unterlagen/</link>
+      <description>Seit Anfang des Jahres digitalisiert ein kleines Team der Gedenkstätte Hohenschönhausen im Stasi-Unterlagen-Archiv Berlin die Kerblochkarteikarten der Hauptabteilung IX zu den Untersuchungshäftlingen der Stasi. Es ist Teil der Aktivitäten des Forschungsverbunds "Landschaften der Verfolgung".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/digitalisierungsprojekt-zu-haft-unterlagen/</guid>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workshop "Schlagwörter und Normdaten ins Archiv" im Bundesarchiv in Koblenz</title>
+      <link>https://www.bundesarchiv.de/nachricht/workshop-schlagwoerter-und-normdaten-ins-archiv-im-bundesarchiv-in-koblenz/</link>
+      <description>Workshop "Schlagwörter und Normdaten ins Archiv" im Bundesarchiv in Koblenz</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/workshop-schlagwoerter-und-normdaten-ins-archiv-im-bundesarchiv-in-koblenz/</guid>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bestand Reichsfilmintendanz online nutzbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/bestand-reichsfilmintendanz-online-nutzbar/</link>
+      <description>Bestand Reichsfilmintendanz online nutzbar</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bestand-reichsfilmintendanz-online-nutzbar/</guid>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Government Partnership besucht das Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/open-government-partnership-besucht-das-archiv/</link>
+      <description>Eine Gruppe internationaler Mitglieder der weltweiten Initiative Open Government Partnership besuchte im Rahmen ihrer Deutschland-Woche auch das Stasi-Unterlagen-Archiv. Die Gruppe gewann viele aktuelle Einsichten in der Betrachtung ihres Themas durch die Brille der Aufarbeitung einer geschlossenen Gesellschaft anhand der Akten ihres Repressionsapparates.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/open-government-partnership-besucht-das-archiv/</guid>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gutes tun...</title>
+      <link>https://www.bundesarchiv.de/nachricht/gutes-tun/</link>
+      <description>Gutes tun...</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/gutes-tun/</guid>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundesweiter Tag der Archive 2020</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesweiter-tag-der-archive-2020/</link>
+      <description>Zum bundesweiten Tag der Archive lud das Stasi-Unterlagen-Archiv in Berlin und in zehn Außenstellen zur Auseinandersetzung mit der im Archiv dokumentierten Kommunikation ein.  Das Motte des Tages war "Kommunikation. Von der Depesche zum Tweet".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesweiter-tag-der-archive-2020/</guid>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vor 100 Jahren: Kapp-Lüttwitz-Putsch und Kampf der Roten Ruhrarmee</title>
+      <link>https://www.bundesarchiv.de/nachricht/vor-100-jahren-kapp-luettwitz-putsch-und-kampf-der-roten-ruhrarmee/</link>
+      <description>Vor 100 Jahren: Kapp-Lüttwitz-Putsch und Kampf der Roten Ruhrarmee</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/vor-100-jahren-kapp-luettwitz-putsch-und-kampf-der-roten-ruhrarmee/</guid>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stasi-Unterlagen-Archiv stellt öffentliche Angebote ein</title>
+      <link>https://www.bundesarchiv.de/nachricht/stasi-unterlagen-archiv-s/</link>
+      <description>Auf Grund der derzeitigen Lage und zur Verlangsamung der Ausbreitung des Corona-Virus haben wir bis auf Weiteres die öffentlichen Angebote des Stasi-Unterlagen-Archivs eingeschränkt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/stasi-unterlagen-archiv-s/</guid>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Podcast zum Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/podcast-zum-stasi-unte/</link>
+      <description>Mit einem Gespräch mit dem Bundesbeauftragten Roland Jahn beginnen Sprecherin Dagmar Hovestädt und der Ko-Moderator Maximilian Schönherr, freier Hörfunkjournalist, den neu gestarteten Podcast zum  Stasi-Unterlagen-Archiv "111 Kilometer Akten".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/podcast-zum-stasi-unte/</guid>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neue Mind-Maps zu Quellen aus der Zeit der Weimarer Republik</title>
+      <link>https://www.bundesarchiv.de/nachricht/neue-mind-maps-zu-quellen-aus-der-zeit-der-weimarer-republik/</link>
+      <description>Neue Mind-Maps zu Quellen aus der Zeit der Weimarer Republik</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neue-mind-maps-zu-quellen-aus-der-zeit-der-weimarer-republik/</guid>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stasi-Zentrale. Campus für Demokratie wieder geöffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/stasi-zentrale-campus-1/</link>
+      <description>Ab Freitag, 8. Mai, sind die Ausstellungsangebote der Stasi-Zentrale. Campus für Demokratie wieder für den Publikumsverkehr geöffnet. Es gelten die aktuellen Hygiene- und Abstandsregeln bei Begrenzung der Besucherzahl.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/stasi-zentrale-campus-1/</guid>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kapp-Lüttwitz-Putsch, Hitler-Prozess, Tod von Gustav Stresemann: Filmische Einblicke in die Weimarer Republik</title>
+      <link>https://www.bundesarchiv.de/nachricht/kapp-luettwitz-putsch-hitler-prozess-tod-von-gustav-stresemann-filmische-einblicke-in-die-weimarer-republik/</link>
+      <description>Kapp-Lüttwitz-Putsch, Hitler-Prozess, Tod von Gustav Stresemann: Filmische Einblicke in die Weimarer Republik</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kapp-luettwitz-putsch-hitler-prozess-tod-von-gustav-stresemann-filmische-einblicke-in-die-weimarer-republik/</guid>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Politikerbesuch aus Berlin und dem Bundestag</title>
+      <link>https://www.bundesarchiv.de/nachricht/politikerbesuch-aus-berlin-und-dem-bundestag-1/</link>
+      <description>Der Präsident des Abgeordnetenhauses von Berlin, Ralf Wieland, und die Bundestagsabgeordnete Melanie Bernstein haben sich über die Entwicklung der "Stasi-Zentrale.Campus für Demokratie" informiert und sich mit dem Bundesbeauftragten zum Transformationsprozess ausgetauscht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/politikerbesuch-aus-berlin-und-dem-bundestag-1/</guid>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bürgerberatung und Akteneinsicht wieder vor Ort möglich</title>
+      <link>https://www.bundesarchiv.de/nachricht/buergerberatung-und-akteneinsicht-wieder-vor-ort-moeglich/</link>
+      <description>In Berlin und den zwölf Außenstellen werden Termine für Akteneinsicht und Bürgerberatung vergeben. Zum Teil gelten besondere Nutzungsbedingungen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/buergerberatung-und-akteneinsicht-wieder-vor-ort-moeglich/</guid>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jahresband 1973 der Kabinetts­protokolle jetzt online verfügbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/jahresband-1973-der-kabinettsshyprotokolle-jetzt-online-verfuegbar/</link>
+      <description>Jahresband 1973 der Kabinetts­protokolle jetzt online verfügbar</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/jahresband-1973-der-kabinettsshyprotokolle-jetzt-online-verfuegbar/</guid>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch am historischen Ort in Gera</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-am-historischen-ort-in-gera/</link>
+      <description>Der Bundesbeauftragte für die Stasi-Unterlagen Roland Jahn besuchte die Gedenkstätte Amthordurchgang und das Stasi-Unterlagen-Archiv Gera. Dort tauschte er sich mit der Bundestagsabgeordneten Elisabeth Kaiser (SPD) und dem Thüringer Landesbeaufragten für die Aufarbeitung der SED-Diktatur Peter Wurschi über die Zukunft der Erinnerungsarbeit aus.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-am-historischen-ort-in-gera/</guid>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archivisch für Anfänger - 25 Fachbegriffe einfach erklärt</title>
+      <link>https://www.bundesarchiv.de/nachricht/archivisch-fuer-anfaenger-25-fachbegriffe-einfach-erklaert/</link>
+      <description>Archivisch für Anfänger - 25 Fachbegriffe einfach erklärt</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/archivisch-fuer-anfaenger-25-fachbegriffe-einfach-erklaert/</guid>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Montag: Treffpunkt Archiv"</title>
+      <link>https://www.bundesarchiv.de/nachricht/montag-treffpunkt-archiv/</link>
+      <description>Ab dem 3. August 2020, 16:30 Uhr, bietet das Stasi-Unterlagen-Archiv immer montags ein neues Besucherformat an: "Montag: Treffpunkt Archiv". Wir freuen uns auf Ihren Besuch.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/montag-treffpunkt-archiv/</guid>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vorhang auf fürs Campus-Kino</title>
+      <link>https://www.bundesarchiv.de/nachricht/campus-kino/</link>
+      <description>"Das Leben der Anderen." "Weissensee." "Deutschland 83." Das Wirken der Stasi ist dramatischer Filmstoff. Fiktion und Realität treffen sich bei der Premiere der neuen Filmreihe "Campus-Kino" in der ehemaligen Stasi-Zentrale. Am historischen Ort des Ministeriums für Staatssicherheit zeigt die Filmreihe Dokumentar- und Spielfilme zum Leben in der DDR und wie es von der Präsenz der Staatssicherheit durchdrungen war.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/campus-kino/</guid>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Relaunch von "DDR im Blick"</title>
+      <link>https://www.bundesarchiv.de/nachricht/relaunch-von-ddr-im-blick/</link>
+      <description>Von 1953 bis 1989 fertigte die Zentrale Auswertungs- und Informationsgruppe (ZAIG) im Ministerium für Staatssicherheit (MfS) geheime Berichte zur Information der Staats- und Parteiführung. In der neu gestalteten Online-Datenbank "DDR im Blick" können diese nun gelesen werden.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/relaunch-von-ddr-im-blick/</guid>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stand der Digitalisierung militärischer Bestände des Bundesarchivs</title>
+      <link>https://www.bundesarchiv.de/nachricht/stand-der-digitalisierung-militaerischer-bestaende-des-bundesarchivs/</link>
+      <description>Stand der Digitalisierung militärischer Bestände des Bundesarchivs</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/stand-der-digitalisierung-militaerischer-bestaende-des-bundesarchivs/</guid>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wahlmarathon in der Weimarer Republik: Vom Aufbruch in die Demokratie zum Faschismus</title>
+      <link>https://www.bundesarchiv.de/nachricht/wahlmarathon-in-der-weimarer-republik-vom-aufbruch-in-die-demokratie-zum-faschismus/</link>
+      <description>Wahlmarathon in der Weimarer Republik: Vom Aufbruch in die Demokratie zum Faschismus</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/wahlmarathon-in-der-weimarer-republik-vom-aufbruch-in-die-demokratie-zum-faschismus/</guid>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundestagspräsident Schäuble zu Gast im Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundestagspraesident-schaeuble-wuerdigt-arbeit-des-1/</link>
+      <description>Am 30. Jahrestag der Besetzung des Stasi-Archivs am 4. September 1990 besuchte Bundestagspräsident Wolfgang Schäuble die "Stasi-Zentrale. Campus für Demokratie" in Berlin-Lichtenberg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundestagspraesident-schaeuble-wuerdigt-arbeit-des-1/</guid>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vorhang zu fürs Campus-Kino</title>
+      <link>https://www.bundesarchiv.de/nachricht/vorhang-zu-fuers-campus-kino/</link>
+      <description>Mit dem Spielfilm "Good Bye, Lenin!" endete am 4. September das erste Open-Air-Kino-Festival auf dem Innenhof der "Stasi-Zentrale. Campus für Demokratie". An neun Abenden wurden unter freiem Himmel im Wechsel Dokumentar- und Spielfilme gezeigt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/vorhang-zu-fuers-campus-kino/</guid>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tag des offenen Denkmals in der "Stasi-Zentrale. Campus für Demokratie"</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-des-offenen-denkmals-in-der-1/</link>
+      <description>Zum Tag des offenen Denkmals 2020 öffneten sich neue Perspektiven auf die ehemalige Stasi-Zentrale. Unter dem Motto "Denk_mal nachhaltig" lud der Berliner Denkmaltag am Wochenende zum Entdecken historischer Orte und ihrer heutigen Nutzungen ein.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-des-offenen-denkmals-in-der-1/</guid>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erschließung der Hochschulschriften der Parteihochschule „Karl Marx“ beim ZK der SED abgeschlossen</title>
+      <link>https://www.bundesarchiv.de/nachricht/erschliessung-der-hochschulschriften-der-parteihochschule-karl-marx-beim-zk-der-sed-abgeschlossen/</link>
+      <description>Erschließung der Hochschulschriften der Parteihochschule „Karl Marx“ beim ZK der SED abgeschlossen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/erschliessung-der-hochschulschriften-der-parteihochschule-karl-marx-beim-zk-der-sed-abgeschlossen/</guid>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturausschussvorsitzende des Bundestages zu Gast auf dem Campus</title>
+      <link>https://www.bundesarchiv.de/nachricht/kulturausschussvorsitzende-des-bundestages-zu-gast-auf-dem-campus/</link>
+      <description>Die Vorsitzende des Ausschusses für Kultur und Medien Katrin Budde (SPD) hat am 14. September die "Stasi-Zentrale. Campus für Demokratie" besucht. Sie informierte sich beim gemeinsamen Rundgang mit dem Bundesbeauftragten Roland Jahn über die Arbeit der unterschiedlichen Akteure auf dem Gelände.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kulturausschussvorsitzende-des-bundestages-zu-gast-auf-dem-campus/</guid>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ein Krimi im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/ein-krimi-im-bundesarchiv/</link>
+      <description>Ein Krimi im Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ein-krimi-im-bundesarchiv/</guid>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konferenz zur Erinnerungskultur in Korea und Deutschland</title>
+      <link>https://www.bundesarchiv.de/nachricht/konferenz-zur-erinnerungskultur-in-korea-und-deutschland/</link>
+      <description>Unter dem Motto "Vergangenheitsbewältigung und Erinnerungskultur in Korea und Deutschland" fand heute eine deutsch-koreanische Konferenz an der Seoul National University Law School statt. Der Bundesbeauftragte Roland Jahn beteiligte sich per Videobotschaft mit einem Grußwort.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/konferenz-zur-erinnerungskultur-in-korea-und-deutschland/</guid>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aktuelle Information Corona-Auflagen November 2020</title>
+      <link>https://www.bundesarchiv.de/nachricht/aktuelle-info/</link>
+      <description>Aufgrund des aktuellen Infektionsgeschehens und des Bemühens, Kontakte zu vermindern, ist unsere Ausstellung "Einblick ins Geheime" in der "Stasi-Zentrale. Campus für Demokratie" vom 2. bis 30. November geschlossen. Ebenso entfallen alle Führungen, Veranstaltungen, Schülerprojekttage und öffentlichen Beratungen in Berlin und den zwölf Außenstellen bis zum 30. November.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/aktuelle-info/</guid>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beinahe 14.000 Online-Anträge auf Akteneinsicht gestellt</title>
+      <link>https://www.bundesarchiv.de/nachricht/beinahe-14000-online-antraege-auf-akteneinsicht-gestellt/</link>
+      <description>Der Online-Personalausweis im Scheckkartenformat macht es seit Ende 2017 möglich, über die Webseite des Bundesbeauftragten einen Online-Antrag auf Akteneinsicht zu stellen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/beinahe-14000-online-antraege-auf-akteneinsicht-gestellt/</guid>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Stasi-Unterlagen-Archiv der Zukunft</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-stasi-unterlagen-a-1-1/</link>
+      <description>Mit der heutigen Verabschiedung des gemeinsamen Gesetzentwurfs von CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen "zur Änderung des Bundesarchivgesetzes, des Stasiunterlagen-Gesetzes und zur Einrichtung einer oder eines SED-Opferbeauftragten" ist die Zukunft des Stasi-Unterlagen-Archivs langfristig gesichert.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-stasi-unterlagen-a-1-1/</guid>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEPRIS Historisch</title>
+      <link>https://www.bundesarchiv.de/nachricht/gepris-historisch/</link>
+      <description>GEPRIS Historisch</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/gepris-historisch/</guid>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übergabe von Spendengeldern für einen guten Zweck</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebergabe-von-spendengeldern-fuer-einen-guten-zweck/</link>
+      <description>Übergabe von Spendengeldern für einen guten Zweck</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebergabe-von-spendengeldern-fuer-einen-guten-zweck/</guid>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netzwerktreffen 2020 per Zoom</title>
+      <link>https://www.bundesarchiv.de/nachricht/netzwerktreffen-2020-per-zoom/</link>
+      <description>Am 28. Januar 2021 fand die alljährliche Netzwerk-Tagung des "Europäischen Netzwerks der für die Geheimpolizeiakten zuständigen Behörden“ in einer Online-Videokonferenz statt. Sie war ursprünglich für September 2020 in Prag geplant gewesen, konnte wegen der Pandemie aber nicht stattfinden. Die tschechische Behörde, das Archiv der Sicherheitsdienste (USTR), hält derzeit den Vorsitz.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/netzwerktreffen-2020-per-zoom/</guid>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die Kabinettsprotokolle der Bundesregierung des Jahres 1989 sind jetzt online</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-kabinettsprotokolle-der-bundesregierung-des-jahres-1989-sind-jetzt-online/</link>
+      <description>Die Kabinettsprotokolle der Bundesregierung des Jahres 1989 sind jetzt online</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-kabinettsprotokolle-der-bundesregierung-des-jahres-1989-sind-jetzt-online/</guid>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übergabe 15. Tätigkeitsbericht</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebergabe-15-taetigkeitsbericht/</link>
+      <description>Der Bundesbeauftragte für die Stasi-Unterlagen, Roland Jahn, hat heute dem Präsidenten des Deutschen Bundestages, Wolfgang Schäuble, den 15. Tätigkeitsbericht des Stasi-Unterlagen-Archivs übergeben.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebergabe-15-taetigkeitsbericht/</guid>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kabinettsprotokolle der Bundesregierung des Jahres 1974 erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/kabinettsprotokolle-der-bundesregierung-des-jahres-1974-erschienen/</link>
+      <description>Kabinettsprotokolle der Bundesregierung des Jahres 1974 erschienen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kabinettsprotokolle-der-bundesregierung-des-jahres-1974-erschienen/</guid>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dr. Michael Hollmann erhält Honorarprofessur der Universität Mannheim</title>
+      <link>https://www.bundesarchiv.de/nachricht/dr-michael-hollmann-erhaelt-honorarprofessur-der-universitaet-mannheim/</link>
+      <description>Dr. Michael Hollmann erhält Honorarprofessur der Universität Mannheim</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/dr-michael-hollmann-erhaelt-honorarprofessur-der-universitaet-mannheim/</guid>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die letzte BStU-Beiratssitzung</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-letzte-bstu-beirat/</link>
+      <description>In seiner voraussichtlich letzten Sitzung am 30. April informierte sich der Beirat unter Vorsitz von Jörn Mothes über den aktuellen Stand des Transformationsprozesses und das Konzept zur quellenkundlichen Forschung.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-letzte-bstu-beirat/</guid>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rückblick: Workshop "Archivgut ins Themenportal! Verschlagworten im Archivportal-D"</title>
+      <link>https://www.bundesarchiv.de/nachricht/rueckblick-workshop-archivgut-ins-themenportal-verschlagworten-im-archivportal-d/</link>
+      <description>Rückblick: Workshop "Archivgut ins Themenportal! Verschlagworten im Archivportal-D"</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/rueckblick-workshop-archivgut-ins-themenportal-verschlagworten-im-archivportal-d/</guid>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Päckchen von drüben": Historische Dokumente aus beiden deutschen Staaten</title>
+      <link>https://www.bundesarchiv.de/nachricht/paeckchen-von-drueben-historische-dokumente-aus-beiden-deutschen-staaten/</link>
+      <description>"Päckchen von drüben": Historische Dokumente aus beiden deutschen Staaten</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/paeckchen-von-drueben-historische-dokumente-aus-beiden-deutschen-staaten/</guid>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aktualisierte Information Corona-Auflagen: Ausstellung wieder geöffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/aktualisierte-information-corona-auflagen-ausstellung-wieder-geoeffnet/</link>
+      <description>Ab dem 4. Juni entfällt für den Besuch unserer Ausstellung "Einblick ins Geheime" in der "Stasi-Zentrale. Campus für Demokratie" die Corona-Testpflicht. Gleiches gilt für die Lesesäle ab dem 28. Juni.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/aktualisierte-information-corona-auflagen-ausstellung-wieder-geoeffnet/</guid>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übernahme der Verantwortung für die Stasi-Unterlagen durch das Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebernahme-der-verantwortung-fuer-die-stasi-unterlagen-durch-das-bundesarchiv/</link>
+      <description>Übernahme der Verantwortung für die Stasi-Unterlagen durch das Bundesarchiv</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebernahme-der-verantwortung-fuer-die-stasi-unterlagen-durch-das-bundesarchiv/</guid>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übergang ins Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebergang-ins-bundesarchiv-1/</link>
+      <description>Mit dem heutigen Tag ist das Stasi-Unterlagen-Archiv Teil des Bundesarchivs. Damit erreicht ein langjähriger Prozess, der die Zukunft der Stasi-Unterlagen sichert, einen weiteren Meilenstein.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebergang-ins-bundesarchiv-1/</guid>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fünf Wochen "Demokratie statt Diktatur" - CAMPUS FORUM</title>
+      <link>https://www.bundesarchiv.de/nachricht/fuenf-wochen-demokratie-statt-diktatur-campus-forum/</link>
+      <description>Das erste CAMPUS-FORUM in der "Stasi-Zentrale. Campus für Demokratie" endete am 24. Juni mit einer Lesung der Autorin Manja Präkels. An 15 Abenden hatten Gäste aus aller Welt aktuelle und historische Themen- und Konfliktfelder rund um Archive, Menschenrechte und Jugend in der Diktatur debattiert - vor Ort und im Live-Stream.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/fuenf-wochen-demokratie-statt-diktatur-campus-forum/</guid>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Film ab für das Campus-Kino</title>
+      <link>https://www.bundesarchiv.de/nachricht/film-ab-fuer-das-campus-kino/</link>
+      <description>Vom 7. August bis zum 4. September wird der Innenhof der ehemaligen Stasi-Zentrale in Berlin-Lichtenberg zum zweiten Mal zum großen Open-Air-Kino.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/film-ab-fuer-das-campus-kino/</guid>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rettung durchnässter und verschmutzter privater Unterlagen</title>
+      <link>https://www.bundesarchiv.de/nachricht/rettung-durchnaesster-und-verschmutzter-privater-unterlagen/</link>
+      <description>Rettung durchnässter und verschmutzter privater Unterlagen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/rettung-durchnaesster-und-verschmutzter-privater-unterlagen/</guid>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die "Kabinettsprotokolle der Bundesregierung" des Jahres 1990 sind online</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-kabinettsprotokolle-der-bundesregierung-des-jahres-1990-sind-online/</link>
+      <description>Die "Kabinettsprotokolle der Bundesregierung" des Jahres 1990 sind online</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-kabinettsprotokolle-der-bundesregierung-des-jahres-1990-sind-online/</guid>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aktualisierte Corona-Maßnahmen: 3G-Regel an allen Standorten</title>
+      <link>https://www.bundesarchiv.de/nachricht/aktualisierte-corona-massnahmen-3g-regel-an-allen-standorten/</link>
+      <description>Ab dem 20. August gilt die 3G-Regel (Geimpft, Genesen, Getestet) in Berlin beim Ausstellungsbesuch, bei Führungen und in der Spezialbibliothek. Ab dem 24. August gilt sie auch in den Lesesälen aller Standorte.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/aktualisierte-corona-massnahmen-3g-regel-an-allen-standorten/</guid>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abschied vom Campus-Kino 2021</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-letzte-klappe-fuer-das-campus-kino-2021-ist-gefallen/</link>
+      <description>Am 4. September endete die zweite Ausgabe des Campus-Kinos, dem Open-Air-Kino auf dem Innenhof der ehemaligen Stasi-Zentrale. Über vier Wochen lang wurden Filme präsentiert, die sich direkt oder indirekt mit dem Thema Stasi befassen. Darunter waren auch aktuelle Kinofilme wie "Nahschuss" oder Premieren wie die der Dokumentation "Mielke und die Mauer".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-letzte-klappe-fuer-das-campus-kino-2021-ist-gefallen/</guid>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tag des offenen Denkmals in der Stasi-Zentrale</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-des-offenen-denkmals-in-der-2/</link>
+      <description>Am 11. September 2021 lädt das Stasi-Unterlagen-Archiv in die "Stasi-Zentrale. Campus für Demokratie" zu Führungen, Ausstellungen und mehr im Rahmen des Tags des offenen Denkmals.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-des-offenen-denkmals-in-der-2/</guid>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EinheitsEXPO 2021 in Halle</title>
+      <link>https://www.bundesarchiv.de/nachricht/einheitsexpo-2021-in-halle/</link>
+      <description>Vom 18. September bis 3. Oktober fand in Halle die diesjährige EinheitsEXPO statt. Auch das Stasi-Unterlagen-Archiv nahm mit einem vielfältigen Programm daran teil.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/einheitsexpo-2021-in-halle/</guid>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Max Schmeling - Eine Legende im Boxsport!</title>
+      <link>https://www.bundesarchiv.de/nachricht/max-schmeling-eine-legende-im-boxsport/</link>
+      <description>Max Schmeling - Eine Legende im Boxsport!</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/max-schmeling-eine-legende-im-boxsport/</guid>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cinefest 2021 – Westwärts. Osteuropäische Filmschaffende in Westeuropa</title>
+      <link>https://www.bundesarchiv.de/nachricht/cinefest-2021-westwaerts-osteuropaeische-filmschaffende-in-westeuropa/</link>
+      <description>cinefest 2021 – Westwärts. Osteuropäische Filmschaffende in Westeuropa</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/cinefest-2021-westwaerts-osteuropaeische-filmschaffende-in-westeuropa/</guid>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unesco-Welttag des audiovisuellen Erbes am 27.10.2021</title>
+      <link>https://www.bundesarchiv.de/nachricht/unesco-welttag-des-audiovisuellen-erbes-am-27102021/</link>
+      <description>Unesco-Welttag des audiovisuellen Erbes am 27.10.2021</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/unesco-welttag-des-audiovisuellen-erbes-am-27102021/</guid>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Unmögliche ermöglichen. 30 Jahre Stasi-Unterlagen-Gesetz</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-unmoegliche-ermoeglichen-30-jahre/</link>
+      <description>Vor 30 Jahren gelang, was damals vielen unmöglich erschien. Der erste gesamtdeutsche Bundestag schuf mit dem Stasi-Unterlagen-Gesetz (StUG) die Rechtsgrundlage für den Zugang zu den vielfach menschenrechtswidrig gesammelten Daten der Staatssicherheit. Auf einer Podiumsdiskussion in der Stasi-Zentrale.Campus für Demokratie sprachen der erste Bundesbeauftragte für die Stasi-Unterlagen Joachim Gauck, der Präsident des Bundesarchivs Prof. Dr. Michael Hollmann u.a. über Entstehung und Herausforderung des StUG.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-unmoegliche-ermoeglichen-30-jahre/</guid>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"[...] es ist bemerkenswert, dass es hier gelungen ist, die Unterlagen zu bewahren."</title>
+      <link>https://www.bundesarchiv.de/nachricht/es-ist-bemerkenswert-dass-es-hier-gelungen-ist-die-unterlagen-zu-bewahren/</link>
+      <description>"[...] es ist bemerkenswert, dass es hier gelungen ist, die Unterlagen zu bewahren."</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/es-ist-bemerkenswert-dass-es-hier-gelungen-ist-die-unterlagen-zu-bewahren/</guid>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tourneeausstellung "Geschichte und Erinnerung" zu Gast im ZKM</title>
+      <link>https://www.bundesarchiv.de/nachricht/tourneeausstellung-geschichte-und-erinnerung-zu-gast-im-zkm/</link>
+      <description>Tourneeausstellung "Geschichte und Erinnerung" zu Gast im ZKM</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tourneeausstellung-geschichte-und-erinnerung-zu-gast-im-zkm/</guid>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Die Spuren der Diktatur": 30 Jahre Akteneinsicht</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-spuren-der-diktatur-30-jahre-akteneinsicht/</link>
+      <description>Was bedeutet die Akteneinsicht für die Betroffenen? Und welche Folgen, z. T. bis in die Gegenwart hinein, haben die Maßnahmen der Stasi? In einer digitalen Diskussionsrunde sprachen Evelyn Zupke, Ulrike Poppe und Dr. Stefan Trobisch-Lütge über 30 Jahre Akteneinsicht im Stasi-Unterlagen-Archiv.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-spuren-der-diktatur-30-jahre-akteneinsicht/</guid>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quellen aus dem Bundesarchiv für den Unterricht</title>
+      <link>https://www.bundesarchiv.de/nachricht/quellen-aus-dem-bundesarchiv-fuer-den-unterricht/</link>
+      <description>Quellen aus dem Bundesarchiv für den Unterricht</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/quellen-aus-dem-bundesarchiv-fuer-den-unterricht/</guid>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jahr eins der deutschen Einheit</title>
+      <link>https://www.bundesarchiv.de/nachricht/jahr-eins-der-deutschen-einheit/</link>
+      <description>Jahr eins der deutschen Einheit</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/jahr-eins-der-deutschen-einheit/</guid>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Eins und Eins macht Zwei. Traumpaare im deutschen Film“</title>
+      <link>https://www.bundesarchiv.de/nachricht/eins-und-eins-macht-zwei-traumpaare-im-deutschen-film/</link>
+      <description>„Eins und Eins macht Zwei. Traumpaare im deutschen Film“</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/eins-und-eins-macht-zwei-traumpaare-im-deutschen-film/</guid>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aktuelle Corona-Regeln im Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/aktuelle-corona-regeln-im-stasi/</link>
+      <description>Für die Lesesäle, die Bibliothek, den Besuch in der Ausstellung "Einblick ins Geheime" sowie Führungen benötigen Sie aktuell eine medizinische Maske (OP- oder FFP2-Maske).</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/aktuelle-corona-regeln-im-stasi/</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>70 Jahre Bundesarchiv – 30 Jahre Einsicht in die Stasi-Unterlagen</title>
+      <link>https://www.bundesarchiv.de/nachricht/70-jahre-bundesarchiv-30-jahre-einsicht-in-die-stasi-unterlagen/</link>
+      <description>70 Jahre Bundesarchiv – 30 Jahre Einsicht in die Stasi-Unterlagen</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/70-jahre-bundesarchiv-30-jahre-einsicht-in-die-stasi-unterlagen/</guid>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die Woche der Pressefreiheit auf dem Campus</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-woche-der-pressefreiheit-auf-dem-campus/</link>
+      <description>"Pressefreiheit ist auch deine Freiheit" – unter diesem Motto laden wir junge Menschen ab 12 Jahren anlässlich des weltweiten Tags der Pressefreiheit zu Gesprächen, Workshops und Ausstellungsführungen ein.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-woche-der-pressefreiheit-auf-dem-campus/</guid>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drei Wochen CAMPUS-FORUM</title>
+      <link>https://www.bundesarchiv.de/nachricht/drei-wochen-campus-forum/</link>
+      <description>Vom 26.04. bis 14.05. jeweils dienstags, donnerstags und samstags Gespräche, Vorträge und Führungen zu Themen um Demokratie und Diktatur</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/drei-wochen-campus-forum/</guid>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jahr des Kanzlerrücktritts</title>
+      <link>https://www.bundesarchiv.de/nachricht/jahr-des-kanzlerruecktritts/</link>
+      <description>Jahr des Kanzlerrücktritts</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/jahr-des-kanzlerruecktritts/</guid>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neues Informations- und Leitsystem in der Stasi-Zentrale. Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/neues-informations-und-leitsystem-in-der-stasi-zentrale-campus-fuer-demokratie/</link>
+      <description>Ein neues Informations- und Leitsystem mit Geschichtstafeln ist heute in der Stasi-Zentrale. Campus für Demokratie und im Stadtgebiet von Lichtenberg in Betrieb gegangen. Dazu gehören 21 digitale und analoge Tafeln im Innenhof der ehemaligen Stasi-Zentrale, im umliegenden Straßenraum sowie am benachbarten Roedeliusplatz.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neues-informations-und-leitsystem-in-der-stasi-zentrale-campus-fuer-demokratie/</guid>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>12. Berlin Biennale in der Stasi-Zentrale. Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/12-berlin-biennale-in-der-stas/</link>
+      <description>Vom 11. Juni bis 18. September 2022 ist die "Stasi-Zentrale. Campus für Demokratie" neben anderen Spielstätten in Berlin ein Ausstellungsort der 12. Berlin Biennale für zeitgenössische Kunst.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/12-berlin-biennale-in-der-stas/</guid>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beratungsgremium zum Transformationsprozess konstituiert</title>
+      <link>https://www.bundesarchiv.de/nachricht/beratungsgremium-zum-tr/</link>
+      <description>Am 20. Juni 2022 hat sich das neue Beratungsgremium beim Bundesarchiv zum Transformationsprozess konstituiert. Zur Vorsitzenden haben die Mitglieder des Gremiums Katrin Budde (MdB) gewählt. Die Funktion des stellvertretenden Vorsitzes übernimmt Dieter Dombrowski (UOKG).</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/beratungsgremium-zum-tr/</guid>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netzwerktreffen in Budapest</title>
+      <link>https://www.bundesarchiv.de/nachricht/netzwerktreffen-in-budapest/</link>
+      <description>Bei der jährlichen Konferenz des Europäischen Netzwerks der für die Geheimpolizeiakten zuständigen Behörden in Budapest ist der Vorsitz des Netzwerks auf Alexandra Titze, Vizepräsidenten des Bundesarchivs und Leiterin des Stasi-Unterlagen-Archivs, übergegangen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/netzwerktreffen-in-budapest/</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rückblick auf das Campus-Kino 2022</title>
+      <link>https://www.bundesarchiv.de/nachricht/rueckblick-auf-das-campus-kino-2022/</link>
+      <description>Am 3. September ging das diesjährige Campus-Kino mit dem Film "Das Leben der Anderen" zuende. Insgesamt über 4.500 Gäste besuchten die ehemalige Stasi-Zentrale in Berlin-Lichtenberg, um Spiel- und Dokumentarfilme zu den Themen DDR-Vergangenheit, Staatssicherheit, Archiv und Aufklärung zu sehen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/rueckblick-auf-das-campus-kino-2022/</guid>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Imagebroschüre des Bundesarchivs</title>
+      <link>https://www.bundesarchiv.de/nachricht/imagebroschuere-des-bundesarchivs/</link>
+      <description>Imagebroschüre des Bundesarchivs</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/imagebroschuere-des-bundesarchivs/</guid>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forschungskolloquium des Stasi-Unterlagen-Archivs im Wintersemester 2022/23</title>
+      <link>https://www.bundesarchiv.de/nachricht/forschungskolloquium-des-stasi/</link>
+      <description>Im Wintersemester 2022/23 wird das Forschungskolloquium des Stasi-Unterlagen-Archivs fortgesetzt. Zwischen Oktober 2022 und Januar 2023 laden wir zu insgesamt drei Veranstaltungen ein.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/forschungskolloquium-des-stasi/</guid>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unesco-Welttag des audiovisuellen Erbes 2022</title>
+      <link>https://www.bundesarchiv.de/nachricht/unesco-welttag-des-audiovisuellen-erbes-2022/</link>
+      <description>Unesco-Welttag des audiovisuellen Erbes 2022</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/unesco-welttag-des-audiovisuellen-erbes-2022/</guid>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cinefest 2022</title>
+      <link>https://www.bundesarchiv.de/nachricht/cinefest-2022/</link>
+      <description>cinefest 2022</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/cinefest-2022/</guid>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Stasi in Erfurt"</title>
+      <link>https://www.bundesarchiv.de/nachricht/stasi-in-erfurt/</link>
+      <description>Neuer Bilderfilm des Stasi-Unterlagen-Archivs im Bundesarchiv für die aktuelle Sonderausstellung "Händedruck und Rote Fahne - Die Gründung der SED und das Ende der Arbeiterbewegung" der Gedenk- und Bildungsstätte Andreasstraße in Erfurt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/stasi-in-erfurt/</guid>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das kleine bisschen Glück. Heitere Filme zur deutschen Zeitgeschichte</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-kleine-bisschen-glueck-heitere-filme-zur-deutschen-zeitgeschichte/</link>
+      <description>Das kleine bisschen Glück. Heitere Filme zur deutschen Zeitgeschichte</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-kleine-bisschen-glueck-heitere-filme-zur-deutschen-zeitgeschichte/</guid>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 Jahre SAPMO</title>
+      <link>https://www.bundesarchiv.de/nachricht/30-jahre-sapmo/</link>
+      <description>Neue Virtuelle Ausstellung anlässlich des 30-jährigen Bestehens der Stiftung Archiv der Parteien und Massenorganisationen der DDR im Bundesarchiv (SAPMO).</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/30-jahre-sapmo/</guid>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Letzter Band der Reihe "MfS-Handbuch 'Anatomie der Staatssicherheit'" erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/letzter-band-der-reihe-mfs/</link>
+      <description>Mit dem MfS-Handbuch über die Organisationsstruktur der Bezirksverwaltung Neubrandenburg auf Bezirks- und Kreisebene endet die langjährige Publikationsreihe.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/letzter-band-der-reihe-mfs/</guid>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundesarchiv übernimmt Krebsregister</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesarchiv-uebernimmt-krebsregister/</link>
+      <description>Das Bundesarchiv hat zum Jahresbeginn 2023 die Unterlagen des Gemeinsamen Krebsregisters der Länder Brandenburg, Berlin, Sachsen, Sachsen-Anhalt, Thüringen und Mecklenburg-Vorpommern (GKR) übernommen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesarchiv-uebernimmt-krebsregister/</guid>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturstaatsministerin besucht Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/kulturstaatsministerin-besucht/</link>
+      <description>Besuch der Staatsministerin Claudia Roth im Bundesarchiv - Stasi-Unterlagen-Archiv auf dem Gelände der ehemaligen Stasi-Zentrale in Berlin-Lichtenberg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kulturstaatsministerin-besucht/</guid>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuer Claim für 2023</title>
+      <link>https://www.bundesarchiv.de/nachricht/neuer-claim-fuer-2023/</link>
+      <description>Für das Jahr 2023 gibt es einen neuen Claim: Demokratie bewahren.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neuer-claim-fuer-2023/</guid>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilder und Dokumente zu den Revolutionsjahren 1848/49</title>
+      <link>https://www.bundesarchiv.de/nachricht/bilder-und-dokumente-zu-den-revolutionsjahren-1848/49/</link>
+      <description>Im Februar startet das Bundesarchiv eine Online-Reihe zu 175 Jahren Revolution 1848/49.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bilder-und-dokumente-zu-den-revolutionsjahren-1848/49/</guid>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bestandserhaltung heute - Massendigitalisierung und Schutz von Originalen</title>
+      <link>https://www.bundesarchiv.de/nachricht/bestandserhaltung-heute-massendigitalisierung-und-schutz-von-originalen/</link>
+      <description>Das Bewahren des rechtlichen und kulturellen Erbes war noch nie so vielfältig und herausfordernd: Die wachsende Menge an zu verwahrenden Unterlagen stellt Archive und Bibliotheken vor große Aufgaben. Um den digitalen Zugang zeitgemäß auszubauen, sind die erforderlichen finanziellen und personellen Ressourcen bereitzustellen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bestandserhaltung-heute-massendigitalisierung-und-schutz-von-originalen/</guid>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neues Hilfsmittel für die Provenienzforschung zu DDR-Kunstexporten</title>
+      <link>https://www.bundesarchiv.de/nachricht/neues-hilfsmittel-fuer-die-provenienzforschung-zu-ddr-kunstexporten/</link>
+      <description>Zwischen 1973 und 1989 exportierte die Kunst und Antiquitäten GmbH (KuA) neben allerlei Gebrauchtwaren und Trödel eine beträchtliche Zahl an Kunstwerken und Antiquitäten aus der DDR in die Bundesrepublik und das westliche Ausland.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neues-hilfsmittel-fuer-die-provenienzforschung-zu-ddr-kunstexporten/</guid>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erster Verkürzter Vorbereitungsdienst gestartet</title>
+      <link>https://www.bundesarchiv.de/nachricht/erster-verkuerzter-vorbereitungsdienst-gestartet/</link>
+      <description>Erstmals hat im Bundesarchiv in Berlin-Lichterfelde ein Verkürzter Vorbereitungsdienst für den gehobenen Archivdienst begonnen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/erster-verkuerzter-vorbereitungsdienst-gestartet/</guid>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuer Bildungswegweiser zum Volksaufstand 17. Juni 1953</title>
+      <link>https://www.bundesarchiv.de/nachricht/neuer-bildungswegweiser-zum-volksaufstand-17-juni-1953/</link>
+      <description>Zum 70. Jahrestag des Volksaufstands vom 17. Juni 1953 haben das Stasi-Unterlagen-Archiv im Bundesarchiv und die Bundesstiftung Aufarbeitung gemeinsam einen neuen Bildungswegweiser herausgebracht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neuer-bildungswegweiser-zum-volksaufstand-17-juni-1953/</guid>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archivseminar "Aktenkunde des Holocausts"</title>
+      <link>https://www.bundesarchiv.de/nachricht/archivseminar-aktenkunde-des-holocausts/</link>
+      <description>Das Bundesarchiv ist Partner im transnationalen Projekt EHRI (European Holocaust Research Infrastructure).</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/archivseminar-aktenkunde-des-holocausts/</guid>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilder von den Filmsets der DEFA</title>
+      <link>https://www.bundesarchiv.de/nachricht/bilder-von-den-filmsets-der-defa/</link>
+      <description>Bilder eines Sultanspalasts in Babelsberg als märchenhafte Kulisse für den kleinen Muck. Fotos des Spreekahns, mit dem Paul und Paula durch die Rummelsburger Bucht kreuzen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bilder-von-den-filmsets-der-defa/</guid>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Call for Papers und Sichtungskolloquium zum cinefest</title>
+      <link>https://www.bundesarchiv.de/nachricht/call-for-papers-und-sichtungskolloquium-zum-cinefest/</link>
+      <description>Das diesjährige cinefest findet vom 17. bis 26. November 2023 in Hamburg statt. Der 36. Internationale Filmhistorische Kongress am 25. November 2023 ist integraler Bestandteil des cinefests.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/call-for-papers-und-sichtungskolloquium-zum-cinefest/</guid>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ein außergewöhnlicher und herausfordernder Ausbildungsgang: Archivreferendariat im Bundesarchiv gestartet</title>
+      <link>https://www.bundesarchiv.de/nachricht/ein-aussergewoehnlicher-und-herausfordernder-ausbildungsgang-archivreferendariat-im-bundesarchiv-gestartet/</link>
+      <description>Nur etwa 15 Personen jährlich absolvieren im gesamten Bundesgebiet ein Archivreferendariat – vier davon wurden Anfang der Woche durch den Präsidenten des Bundesarchivs, Prof. Dr. Michael Hollmann, zu Archivreferendarinnen bzw. Archivreferendaren ernannt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ein-aussergewoehnlicher-und-herausfordernder-ausbildungsgang-archivreferendariat-im-bundesarchiv-gestartet/</guid>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Tag der Pressefreiheit" 2023 in der ehemaligen Stasi-Zentrale</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit-2023-in-der-ehemaligen-stasi-zentrale/</link>
+      <description>Am 3. Mai 2023 fand der Tag der Pressefreiheit in der "Stasi-Zentrale. Campus für Demokratie" statt. Unter dem Motto #PressefreiheitIstDeineFreiheit konnten Schülerinnen und Schüler an einem vielfältigen Workshop-Programm teilnehmen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit-2023-in-der-ehemaligen-stasi-zentrale/</guid>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moderner Archivbau in Chemnitz eröffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/moderner-archivbau-in-chemnitz-eroeffnet/</link>
+      <description>Das Stasi-Unterlagen-Archiv Chemnitz befindet sich nun zentrumsnah in einem modernen Archivbau in unmittelbarer Nachbarschaft zum Sächsischen Staatsarchiv.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/moderner-archivbau-in-chemnitz-eroeffnet/</guid>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newsletter des Bundesarchivs neu gestaltet</title>
+      <link>https://www.bundesarchiv.de/nachricht/newsletter-des-bundesarchivs-neu-gestaltet/</link>
+      <description>In neuer Aufmachung präsentiert sich der Newsletter des Bundesarchivs.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/newsletter-des-bundesarchivs-neu-gestaltet/</guid>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundesarchiv als Lernort</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesarchiv-als-lernort/</link>
+      <description>Bei einer ganztägigen Fortbildung in der ehemaligen Stasi-Zentrale erschlossen sich Lehrkräfte die Bildungsangebote des Bundesarchivs.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesarchiv-als-lernort/</guid>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Band 1 der Sonderreihe zur NS-Behördenforschung erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/band-1-der-sonderreihe-zur-ns-behoerdenforschung-erschienen/</link>
+      <description>Nach Abschluss des großen Forschungsprogramms "Die zentralen deutschen Behörden und der Nationalsozialismus" veröffentlicht nun das Bundesarchiv in einer Sonderreihe der Schriften des Bundesarchivs sukzessive die Ergebnisse dieser Studien.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/band-1-der-sonderreihe-zur-ns-behoerdenforschung-erschienen/</guid>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Umsetzung neuer EU-Richtlinie für die Nutzung nicht verfügbarer Werke</title>
+      <link>https://www.bundesarchiv.de/nachricht/umsetzung-neuer-eu-richtlinie-fuer-die-nutzung-nicht-verfuegbarer-werke/</link>
+      <description>Im Rahmen der neuen EU-Richtline der nicht verfügbaren Werke hat die Abteilung Filmarchiv des Bundesarchivs 2.142 Filmwerke im Out-of-Commerce Works Portal des Europäischen Amtes für Geistiges Eigentum (EUIPO) im Mai 2023 registriert.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/umsetzung-neuer-eu-richtlinie-fuer-die-nutzung-nicht-verfuegbarer-werke/</guid>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Historisches Lernen zur DDR-Geschichte</title>
+      <link>https://www.bundesarchiv.de/nachricht/historisches-lernen-zur-ddr-geschichte/</link>
+      <description>Vom 1. Juni bis 4 Juni trafen sich Studierende des Instituts für Didaktik der Geschichte der Westfälischen Wilhelms-Universität-Münster und des Historischen Instituts der Friedrich-Schiller-Universität Jena zu einer gemeinsamen Exkursion in Berlin.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/historisches-lernen-zur-ddr-geschichte/</guid>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krass, die haben die Handys abgehört - Quellenarbeit im Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/krass-die-haben-die-handys-abgehoert-quellenarbeit-im-archiv/</link>
+      <description>Als Auftakt für eine regelmäßige Zusammenarbeit mit dem Schulamt Frankfurt (Oder) trafen sich Lehrerinnen und Lehrer aus Frankfurt (Oder), Eisenhüttenstadt und Strausberg im Stasi-Unterlagen-Archiv Frankfurt (Oder) zu einer Fortbildungsveranstaltung.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/krass-die-haben-die-handys-abgehoert-quellenarbeit-im-archiv/</guid>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geheimdienste, Politik und Krisen seit dem Kalten Krieg</title>
+      <link>https://www.bundesarchiv.de/nachricht/geheimdienste-politik-und-krisen-seit-dem-kalten-krieg/</link>
+      <description>Anlässlich des 70. Jahrestags des Volksaufstandes in der DDR am 17. Juni 1953 fanden in der Stasi-Zentrale. Campus für Demokratie eine wissenschaftliche Tagung sowie eine Podiumsdiskussion statt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/geheimdienste-politik-und-krisen-seit-dem-kalten-krieg/</guid>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rückblick auf die internationale Konferenz "Preservation Today"</title>
+      <link>https://www.bundesarchiv.de/nachricht/rueckblick-auf-die-internationale-konferenz-preservation-today/</link>
+      <description>Vom 28. bis 29. Juni fand am Standort Berlin-Lichtenberg die internationale Konferenz "Preservation Today" statt. Bundesarchiv-Präsident Michael Hollmann begrüßte rund 170 Expertinnen und Experten aus etwa 20 Staaten in Berlin.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/rueckblick-auf-die-internationale-konferenz-preservation-today/</guid>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundesarchiv stellt Digitalausschuss des Deutschen Bundestages seine Digitalisierungsstrategie vor</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesarchiv-stellt-digitalausschuss-des-deutschen-bundestages-seine-digitalisierungsstrategie-vor/</link>
+      <description>In seiner letzten Sitzung vor der parlamentarischen Sommerpause hat sich der Digitalausschuss des Deutschen Bundestages am 5. Juli 2023 mit der Digitalisierungsstrategie des Bundesarchivs befasst.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesarchiv-stellt-digitalausschuss-des-deutschen-bundestages-seine-digitalisierungsstrategie-vor/</guid>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seminar zur Überwachung Wolf Biermanns in der ehemaligen Stasi-Zentrale</title>
+      <link>https://www.bundesarchiv.de/nachricht/seminar-zur-ueberwachung-wolf-biermanns-in-der-ehemaligen-stasi-zentrale/</link>
+      <description>Studierende des Lehrstuhls für Musikwissenschaften der Universität Würzburg besuchten die ehemalige Stasi-Zentrale in Berlin-Lichtenberg. Neben Führungen durch das Stasi-Unterlagen-Archiv stand auch die Arbeit mit einer Beispielakte zu Wolf Biermann auf dem Programm.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/seminar-zur-ueberwachung-wolf-biermanns-in-der-ehemaligen-stasi-zentrale/</guid>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visuelles Fassadentheater in der ehemaligen Stasi-Zentrale</title>
+      <link>https://www.bundesarchiv.de/nachricht/visuelles-fassadentheater-in-der-ehemaligen-stasi-zentrale/</link>
+      <description>Das Theatergruppe "Grotest Maru" gastierte als Teil des Berliner Kultursommerfestivals mit seinem Stück "Global Amazonia" am historischen Ort .</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/visuelles-fassadentheater-in-der-ehemaligen-stasi-zentrale/</guid>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workshop in Mumbai zu analogen und digitalen Filmen</title>
+      <link>https://www.bundesarchiv.de/nachricht/workshop-in-mumbai-zu-analogen-und-digitalen-filmen/</link>
+      <description>In Mumbai hat Florian Höhensteiger, Mitarbeiter des Filmarchivs im Bundesarchiv, einen Workshop mit dem Titel "Film projection in practice" konzipiert und durchgeführt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/workshop-in-mumbai-zu-analogen-und-digitalen-filmen/</guid>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch aus den USA und Kanada im Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-aus-den-usa-und-kanada-im-stasi-unterlagen-archiv/</link>
+      <description>Wissenschaftlerinnen und Wissenschaftler aus den USA und Kanada besuchten den Campus für Demokratie. Sie beschäftigten sich mit der Geschichte des MfS, der archivischen Überlieferung und dem historischen Ort.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-aus-den-usa-und-kanada-im-stasi-unterlagen-archiv/</guid>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ferienpass mit Actionbound</title>
+      <link>https://www.bundesarchiv.de/nachricht/ferienpass-mit-actionbound/</link>
+      <description>Im Rahmen des Ferienpasses stand ein spezieller Actionbound auf dem Programm.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ferienpass-mit-actionbound/</guid>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Der Vorhang fällt für das Campus-Kino 2023</title>
+      <link>https://www.bundesarchiv.de/nachricht/der-vorhang-faellt-fuer-das-campus-kino-2023/</link>
+      <description>Am 31. August endete das diesjährige Open-Air-Film-Festival auf dem Innenhof der "Stasi-Zentrale. Campus für Demokratie". An zwölf Abenden wurden im Wechsel Dokumentar- und Spielfilme gezeigt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/der-vorhang-faellt-fuer-das-campus-kino-2023/</guid>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geschichtslehrerinnen und Geschichtslehrer zu Besuch im Stasi-Unterlagen-Archiv Chemnitz</title>
+      <link>https://www.bundesarchiv.de/nachricht/geschichtslehrerinnen-und-geschichtslehrer-zu-besuch-im-stasi-unterlagen-archiv-chemnitz/</link>
+      <description>30 Geschichtslehrerinnen und -lehrer von Gymnasien und Schulen in freier Trägerschaft im Raum Chemnitz/Erzgebirge besuchten das Stasi-Unterlagen-Archiv Chemnitz und informierten sich über Archive als außerschulischen Lernort und Bildungsangebote zu Themen der Staatssicherheit.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/geschichtslehrerinnen-und-geschichtslehrer-zu-besuch-im-stasi-unterlagen-archiv-chemnitz/</guid>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Austausch und Reflexion im Projekt #Gedenkstättenkompetenz</title>
+      <link>https://www.bundesarchiv.de/nachricht/austausch-und-reflexion-im-projekt-gedenkstaettenkompetenz/</link>
+      <description>Im September 2023 beteiligte sich das Bundesarchiv – Stasi-Unterlagen-Archiv als Projektpartner an einer erweiterten Arbeitstagung, die im Rahmen des Projekts "#Gedenkstättenkompetenz – Lernen am und mit außerschulischen Lernorten" in der Gedenkstätte Berliner Mauer stattfand.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/austausch-und-reflexion-im-projekt-gedenkstaettenkompetenz/</guid>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dokumente der NS-Bürokratie richtig entschlüsseln</title>
+      <link>https://www.bundesarchiv.de/nachricht/dokumente-der-ns-buerokratie-richtig-entschluesseln/</link>
+      <description>Zwölf Teilnehmerinnen und Teilnehmer aus dem In- und Ausland beim zweiten EHRI-Seminar des Bundesarchivs zur "Aktenkunde des Holocaust" in Berlin.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/dokumente-der-ns-buerokratie-richtig-entschluesseln/</guid>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch Joachim Gaucks im Stasi-Unterlagen-Archiv Neubrandenburg</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-joachim-gaucks-im-stasi-unterlagen-archiv-neubrandenburg/</link>
+      <description>Der ehemalige Bundespräsident Joachim Gauck besuchte das Stasi-Unterlagen-Archiv Neubrandenburg. In Gesprächen mit den Mitarbeiterinnen und Mitarbeitern ging es um die Aufarbeitung der SED-Diktatur in der nordöstlichsten Region Deutschlands und die Bedeutung von authentischen Orten für die Demokratievermittlung.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-joachim-gaucks-im-stasi-unterlagen-archiv-neubrandenburg/</guid>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Südkoreanischer Minister für Wiedervereinigung besucht Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/suedkoreanischer-minister-fuer-wiedervereinigung-besucht-campus-fuer-demokratie/</link>
+      <description>Kim Yung Ho, der Minister für Wiedervereinigung der Republik Korea, besuchte die ehemalige Stasi-Zentrale in Berlin-Lichtenberg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/suedkoreanischer-minister-fuer-wiedervereinigung-besucht-campus-fuer-demokratie/</guid>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übernahme des Nachlasses von Georg Alexander Hansen</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebernahme-des-nachlasses-von-georg-alexander-hansen/</link>
+      <description>Der Oberst der Wehrmacht, Georg Alexander Hansen, gehörte zur Widerstandsgruppe des 20. Juli. Jetzt wurde dem Bundesarchiv der persönliche Nachlass von Georg Alexander Hansen durch dessen Familie übergeben.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebernahme-des-nachlasses-von-georg-alexander-hansen/</guid>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch aus Kasachstan im Stasi-Unterlagen-Archiv Leipzig</title>
+      <link>https://www.bundesarchiv.de/nachricht/besuch-aus-kasachstan-im-stasi-unterlagen-archiv-leipzig/</link>
+      <description>Auf Einladung des Auswärtigen Amtes besuchte eine Delegation aus Kasachstan das Stasi-Unterlagen-Archiv Leipzig.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/besuch-aus-kasachstan-im-stasi-unterlagen-archiv-leipzig/</guid>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Übergabe des Tätigkeitsberichts an den Deutschen Bundestag</title>
+      <link>https://www.bundesarchiv.de/nachricht/uebergabe-des-taetigkeitsberichts-an-den-deutschen-bundestag/</link>
+      <description>Bundesarchiv-Präsident Michael Hollmann hat heute gemeinsam mit der Beauftragten der Bundesregierung für Kultur und Medien, Claudia Roth, den ersten Tätigkeitsbericht nach der Transformation an Bundestagspräsidentin Bärbel Bas überreicht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/uebergabe-des-taetigkeitsberichts-an-den-deutschen-bundestag/</guid>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europäische Netzwerk-Tagung auf dem Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/europaeische-netzwerk-tagung-auf-dem-campus-fuer-demokratie/</link>
+      <description>Die diesjährige Tagung des „European Network of Official Authorities in Charge of the Secret Police Files“ fand vom 16. bis 18. Oktober 2023 in Berlin statt. Bundesarchiv-Präsident Michael Hollmann und Vizepräsidentin Alexandra Titze empfingen die Gäste auf dem Campus für Demokratie in Berlin-Lichtenberg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/europaeische-netzwerk-tagung-auf-dem-campus-fuer-demokratie/</guid>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Themenwoche der AG Politische Bildung Cottbus zur DDR-Aufarbeitung</title>
+      <link>https://www.bundesarchiv.de/nachricht/themenwoche-der-ag-politische-bildung-cottbus-zur-ddr-aufarbeitung/</link>
+      <description>Mit Vorträgen, Podiumsdiskussionen und Filmgesprächen beteiligte sich das Bundesarchiv – Stasi-Unterlagen-Archiv an der Themenwoche zur DDR-Aufarbeitung in Cottbus, die vom 9. bis 15. Oktober 2023 in Zusammenarbeit mit der AG Politische Bildung Cottbus stattfand.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/themenwoche-der-ag-politische-bildung-cottbus-zur-ddr-aufarbeitung/</guid>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archivausbildung am Puls der Zeit</title>
+      <link>https://www.bundesarchiv.de/nachricht/archivausbildung-am-puls-der-zeit/</link>
+      <description>Seltene Ein- und Ausblicke: Im Berliner Regierungsviertel kamen die aktuellen Referendarinnen und Referendare des Bundesarchives mit Angehörigen des Bundeskanzleramts, des Parlamentsarchivs und des Verteidigungsausschusses über ihre Aufgaben ins Gespräch.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/archivausbildung-am-puls-der-zeit/</guid>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warnung vor gefälschten Mails</title>
+      <link>https://www.bundesarchiv.de/nachricht/warnung-vor-gefaelschten-mails/</link>
+      <description>Das Bundesarchiv weist darauf hin, dass derzeit gefälschte Mails mit Bundesarchiv-Kennung im Umlauf sind. Dahinter verbergen sich Spam- und Phishing-Nachrichten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/warnung-vor-gefaelschten-mails/</guid>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Umzug des Stasi-Unterlagen-Archivs nach Berlin-Lichtenberg</title>
+      <link>https://www.bundesarchiv.de/nachricht/umzug-des-stasi-unterlagen-archivs-nach-berlin-lichtenberg-1/</link>
+      <description>Die bisher am Standort Berlin-Mitte (Karl-Liebknecht-Str.) angesiedelten Arbeitsbereiche, Auskunftsbereiche und die Bürgerberatung ziehen aktuell bis voraussichtlich Ende Dezember an den neuen Bürostandort in Berlin-Lichtenberg (Frankfurter Allee 204) um.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/umzug-des-stasi-unterlagen-archivs-nach-berlin-lichtenberg-1/</guid>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Festung Archiv Ukraine“: Vortragsreihe</title>
+      <link>https://www.bundesarchiv.de/nachricht/festung-archiv-ukraine-vortragsreihe/</link>
+      <description>Die Geschichte der Ukraine, ihr Platz in Europa und die Überlieferung, Aufgaben und Arbeitsschwerpunkte der Archive in der Ukraine: Zu diesen Themen sprechen Mitarbeiterinnen und Mitarbeiter ukrainischer Archive in der Vortragsreihe „Festung Archiv Ukraine“ im Pilecki-Institut in Berlin.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/festung-archiv-ukraine-vortragsreihe/</guid>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cinefest 2023 "Achtung! Musik ... Zwischen Filmkomödie und Musical"</title>
+      <link>https://www.bundesarchiv.de/nachricht/cinefest-2023-achtung-musik-zwischen-filmkomoedie-und-musical/</link>
+      <description>Vom 17. bis 26. November 2023 findet in Hamburg das XX. Internationale Festival des deutschen Film-Erbes statt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/cinefest-2023-achtung-musik-zwischen-filmkomoedie-und-musical/</guid>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundesarchiv setzt auf "Digitalisierung on demand"</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesarchiv-setzt-auf-digitalisierung-on-demand/</link>
+      <description>Ausgehend von dem Anliegen, die Nutzung von Unterlagen zur deutschen Zeitgeschichte so wenig wie möglich mit Kosten zu belasten, setzt das Bundesarchiv künftig noch stärker auf den Service "Digitalisierung on demand".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesarchiv-setzt-auf-digitalisierung-on-demand/</guid>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lesung mit Lutz Rathenow: "Trotzig lächeln und das Weltall streicheln"</title>
+      <link>https://www.bundesarchiv.de/nachricht/lesung-mit-lutz-rathenow-trotzig-laecheln-und-das-weltall-streicheln/</link>
+      <description>Das Stasi-Unterlagen-Archiv Neubrandenburg lädt am 23. November 2023 ab 19:00 Uhr ins Stadtarchiv Neubrandenburg ein: Lutz Rathenow liest aus seinem Buch "Trotzig lächeln und das Weltall streicheln".</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/lesung-mit-lutz-rathenow-trotzig-laecheln-und-das-weltall-streicheln/</guid>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuer Auftritt für die Kabinettsprotokolle der Bundesregierung</title>
+      <link>https://www.bundesarchiv.de/nachricht/neuer-auftritt-fuer-die-kabinettsprotokolle-der-bundesregierung/</link>
+      <description>Die Online-Version der Edition „Kabinettsprotokolle der Bundesregierung“ hat nun einen neuen Auftritt, der die Dokumente der Kabinettsprotokolle noch besser recherchierbar macht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neuer-auftritt-fuer-die-kabinettsprotokolle-der-bundesregierung/</guid>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Umzug des Stasi-Unterlagen-Archivs nach Berlin-Lichtenberg</title>
+      <link>https://www.bundesarchiv.de/nachricht/umzug-des-stasi-unterlagen-archivs-nach-berlin-lichtenberg/</link>
+      <description>Die bisher am Standort Berlin-Mitte (Karl-Liebknecht-Str.) angesiedelten Arbeitsbereiche, Auskunftsbereiche und die Bürgerberatung ziehen aktuell bis voraussichtlich Ende Dezember an den neuen Bürostandort in Berlin-Lichtenberg (Frankfurter Allee 204) um.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/umzug-des-stasi-unterlagen-archivs-nach-berlin-lichtenberg/</guid>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wanderausstellung "Parole: Funkenschlagen!" im Stasi-Unterlagen-Archiv Halle</title>
+      <link>https://www.bundesarchiv.de/nachricht/wanderausstellung-parole-funkenschlagen-im-stasi-unterlagen-archiv-halle/</link>
+      <description>Was kann die eigene Familie aus der Zeit der deutschen Teilung erzählen? Haben die Großeltern in der DDR oder in der Bundesrepublik gelebt? Welche Erinnerungen gibt es? Diese und viele weitere Fragen greift die interaktive Wanderausstellung "Parole: Funkenschlagen!" auf.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/wanderausstellung-parole-funkenschlagen-im-stasi-unterlagen-archiv-halle/</guid>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Deutsch-Kolumbianische Friedensinstitut besuchte Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-deutsch-kolumbianische-friedensinstitut-besuchte-campus-fuer-demokratie/</link>
+      <description>Eine hochrangige Delegation des Deutsch-Kolumbianischen Friedensinstituts CAPAZ besuchte die ehemalige Stasi-Zentrale in Berlin-Lichtenberg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-deutsch-kolumbianische-friedensinstitut-besuchte-campus-fuer-demokratie/</guid>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zehn Jahre Fachmagazin "Forum": Neue Ausgabe 2023 erschienen</title>
+      <link>https://www.bundesarchiv.de/nachricht/zehn-jahre-fachmagazin-forum-neue-ausgabe-2023-erschienen/</link>
+      <description>Internationale Expertinnen und Experten stellen effektive Strategien vor, um Archivgut zu erhalten und zu digitalisieren.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/zehn-jahre-fachmagazin-forum-neue-ausgabe-2023-erschienen/</guid>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Filmreihe des Bundesarchivs startet am 12.03.2024</title>
+      <link>https://www.bundesarchiv.de/nachricht/filmreihe-des-bundesarchivs-startet-am-12032024/</link>
+      <description>Die Filmreihe des Bundesarchivs, in diesem Jahr zum Thema "Der Blick über die Mauer. Spielfilme aus der Zeit der deutschen Teilung", beginnt am 12. März 2024, um 19:30 Uhr.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/filmreihe-des-bundesarchivs-startet-am-12032024/</guid>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Umzug abgeschlossen: Akteneinsicht, Bürgerberatung und Bibliotheksnutzung wieder möglich</title>
+      <link>https://www.bundesarchiv.de/nachricht/umzug-abgeschlossen-akteneinsicht-buergerberatung-und-bibliotheksnutzung-wieder-moeglich/</link>
+      <description>Umzug abgeschlossen: Akteneinsicht, Bürgerberatung und Bibliotheksnutzung wieder möglich</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/umzug-abgeschlossen-akteneinsicht-buergerberatung-und-bibliotheksnutzung-wieder-moeglich/</guid>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Der Geschichte auf der Spur. Der Tag der Archive 2024 im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/der-geschichte-auf-der-spur-der-tag-der-archive-2024-im-bundesarchiv/</link>
+      <description>Welche Unterlagen verwahrt das Bundesarchiv – und wo? Wie recherchiert man, etwa nach Informationen zu Familienangehörigen? In welche Akten erhalte ich Einsicht? Diese und weitere Fragen beantwortet das Bundesarchiv am deutschlandweiten Tag der Archive.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/der-geschichte-auf-der-spur-der-tag-der-archive-2024-im-bundesarchiv/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bundesarchiv präsentiert archivpädagogische Angebote bei der Bildungsmesse "didacta"</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesarchiv-praesentiert-archivpaedagogische-angebote-bei-der-bildungsmesse-didacta/</link>
+      <description>Das Bundesarchiv stellte vom 20. bis 24. Februar 2024 auf der Bildungsmesse "didacta" in Köln kostenfreie Bildungsmaterialien mit Quellen aus seinen Beständen vor.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesarchiv-praesentiert-archivpaedagogische-angebote-bei-der-bildungsmesse-didacta/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturausschuss des Berliner Abgeordnetenhauses tagt auf dem Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/kulturausschuss-des-berliner-abgeordnetenhauses-tagt-auf-dem-campus-fuer-demokratie/</link>
+      <description>Der Ausschuss für Kultur, Engagement und Demokratieförderung des Berliner Abgeordnetenhauses hat sich am 26. Februar 2024 in Haus 22 der ehemaligen Stasi-Zentrale in Berlin-Lichtenberg zu einer Sitzung getroffen, um sich über den aktuellen Entwicklungsstand zum Campus für Demokratie zu informieren und weitere Perspektiven des Geländes zu diskutieren.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/kulturausschuss-des-berliner-abgeordnetenhauses-tagt-auf-dem-campus-fuer-demokratie/</guid>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Datenbank „Liste der jüdischen Einwohner im Deutschen Reich 1933-1945 in den Grenzen vom 31.12.1937“ – Ausschreibung von Werkverträgen</title>
+      <link>https://www.bundesarchiv.de/nachricht/datenbank-liste-der-juedischen-einwohner-im-deutschen-reich-1933-1945-in-den-grenzen-vom-31121937-ausschreibung-von-werkvertraegen/</link>
+      <description>Das Bundesarchiv arbeitet an einer komplexen Datenbank mit biografischen Informationen zu im Deutschen Reich verfolgten Jüdinnen und Juden.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/datenbank-liste-der-juedischen-einwohner-im-deutschen-reich-1933-1945-in-den-grenzen-vom-31121937-ausschreibung-von-werkvertraegen/</guid>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Handschriften in Kolonialakten für Nutzende lesbar gemacht</title>
+      <link>https://www.bundesarchiv.de/nachricht/handschriften-in-kolonialakten-fuer-nutzende-lesbar-gemacht/</link>
+      <description>Das Bundesarchiv ermöglicht es in seinem Lesesaal in Berlin-Lichterfelde, den gesamten Inhalt der Dokumente des Reichskolonialamtes zu durchsuchen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/handschriften-in-kolonialakten-fuer-nutzende-lesbar-gemacht/</guid>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Bundesarchiv auf der Jobmesse Berlin</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-bundesarchiv-auf-der-jobmesse-berlin/</link>
+      <description>Von Archivarinnen und Archivaren über Organisationstalente in der Verwaltung bis zu Digitalisierungsexpertinnen und -experten: Wir suchen nach leidenschaftlichen Talenten, die unsere Geschichte bewahren und Zukunft gestalten möchten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-bundesarchiv-auf-der-jobmesse-berlin/</guid>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Projekt „Aufarbeitung der Überlieferung der Treuhandanstalt/BvS“ beendet</title>
+      <link>https://www.bundesarchiv.de/nachricht/projekt-aufarbeitung-der-ueberlieferung-der-treuhandanstalt/bvs-beendet/</link>
+      <description>Die Treuhandanstalt spielte im Transformationsprozess der Wendezeit eine große Rolle und sorgt auch heute noch für hitzige Debatten. Um den Zugang zu den Unterlagen zu beschleunigen, startete im April 2016 das auf acht Jahre angelegte Projekt „Aufarbeitung der Überlieferung der Treuhandanstalt/Bundesanstalt für vereinigungsbedingte Sonderaufgaben“ (THA/BVS).</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/projekt-aufarbeitung-der-ueberlieferung-der-treuhandanstalt/bvs-beendet/</guid>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rückblick auf das Symposium zur analogen und digitalen Überlieferung der Obersten Gerichte des Bundes</title>
+      <link>https://www.bundesarchiv.de/nachricht/rueckblick-auf-das-symposium-zur-analogen-und-digitalen-ueberlieferung-der-obersten-gerichte-des-bundes/</link>
+      <description>Vom 24. bis 26. April 2023 fand in der Hauptdienststelle Koblenz das Symposium des Bundesarchivs zur analogen und digitalen Überlieferung der Obersten Gerichte des Bundes statt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/rueckblick-auf-das-symposium-zur-analogen-und-digitalen-ueberlieferung-der-obersten-gerichte-des-bundes/</guid>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Call for Papers und Sichtungskolloquium zum cinefest 2024</title>
+      <link>https://www.bundesarchiv.de/nachricht/call-for-papers-und-sichtungskolloquium-zum-cinefest-2024/</link>
+      <description>Filmische Koproduktionen seit den 1930ern, deutsche Filmschaffende in der Schweiz sowie weitere Entwicklungen und bi- und internationale Verflechtungen im Filmgeschäft sind Thema beim XXI. Cinefest und dem 37. Internationalen Filmhistorischen Kongress.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/call-for-papers-und-sichtungskolloquium-zum-cinefest-2024/</guid>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Richtigstellung zu Falschinformation über angebliche Kafka-Akten im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/richtigstellung-zu-falschinformation-ueber-angebliche-kafka-akten-im-bundesarchiv/</link>
+      <description>In der aktuellen ARD-Produktion „Kafka“ werden falsche Informationen und Bilder über angebliche Bestände zum Schriftsteller Franz Kafka im Bundesarchiv verbreitet.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/richtigstellung-zu-falschinformation-ueber-angebliche-kafka-akten-im-bundesarchiv/</guid>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neue Wanderausstellung zur Stasi im Deutschen Bundestag eröffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/neue-wanderausstellung-zur-stasi-im-deutschen-bundestag-eroeffnet/</link>
+      <description>Im Mauer-Mahnmal des Deutschen Bundestages hat die neue Wanderausstellung des Bundesarchivs – Stasi-Unterlagen-Archivs ihre Premiere gefeiert.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neue-wanderausstellung-zur-stasi-im-deutschen-bundestag-eroeffnet/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vielfalt und Professionalität: Archivreferendariat im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/vielfalt-und-professionalitaet-archivreferendariat-im-bundesarchiv/</link>
+      <description>Am 2. Mai 2024 ernannte Jörg Pietrkiewicz (Leiter der Abteilung Z im Bundesarchiv) am Bundesarchiv-Standort Berlin-Lichterfelde vier neue Archivreferendarinnen und Archivreferendare.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/vielfalt-und-professionalitaet-archivreferendariat-im-bundesarchiv/</guid>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fußball-EM 2024 in der „Stasi-Zentrale. Campus für Demokratie“</title>
+      <link>https://www.bundesarchiv.de/nachricht/fussball-em-2024-in-der-stasi-zentrale-campus-fuer-demokratie/</link>
+      <description>Am 14. Juni startete unsere Veranstaltungsreihe zur Fußball-EM 2024 in der „Stasi-Zentrale. Campus für Demokratie“. „Der Stasi-Klub BFC Dynamo“ stand im Fokus des Podiumsgesprächs in „Haus 22“.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/fussball-em-2024-in-der-stasi-zentrale-campus-fuer-demokratie/</guid>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Technische Probleme bei der Übermittlung von Online-Anträgen</title>
+      <link>https://www.bundesarchiv.de/nachricht/technische-probleme-bei-der-uebermittlung-von-online-antraegen/</link>
+      <description>Zwischen dem 29.04. und dem 12.06.2024 kam es bei der Übermittlung der online gestellten Anträge zu technischen Problemen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/technische-probleme-bei-der-uebermittlung-von-online-antraegen/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besuch von Bundestagspräsidentin Bärbel Bas</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundestagspraesidentin-baerbel-bas-im-bundesarchiv-stasi-unterlagen-archiv/</link>
+      <description>Bundestagspräsidentin Bärbel Bas war am 1. Juli im Bundesarchiv – Stasi-Unterlagen-Archiv in Berlin-Lichtenberg zu Gast.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundestagspraesidentin-baerbel-bas-im-bundesarchiv-stasi-unterlagen-archiv/</guid>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NS-Verfolgung von Jüdinnen und Juden: Erweiterte Funktionen im Online-Gedenkbuch</title>
+      <link>https://www.bundesarchiv.de/nachricht/ns-verfolgung-von-juedinnen-und-juden-erweiterte-funktionen-im-online-gedenkbuch/</link>
+      <description>Das Online-Gedenkbuch „Opfer der Verfolgung der Juden unter der nationalsozialistischen Gewaltherrschaft in Deutschland 1933–1945“ dokumentiert Angaben zu Jüdinnen und Juden, die zwischen 1933 und 1945 ihren Wohnsitz in Deutschland hatten und durch Verfolgung in der NS-Zeit zu Tode gekommen sind.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ns-verfolgung-von-juedinnen-und-juden-erweiterte-funktionen-im-online-gedenkbuch/</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Demokratisches Bankett“ im Revolutionsmuseum</title>
+      <link>https://www.bundesarchiv.de/nachricht/demokratisches-bankett-im-revolutionsmuseum/</link>
+      <description>Zur Feier von 50 Jahre Revolutionsmuseum Rastatt und 175 Jahre Revolution 1848/49 hat das Bundesarchiv zum "Demokratischen Bankett" geladen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/demokratisches-bankett-im-revolutionsmuseum/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neue Bundesarchiv-Website ist online</title>
+      <link>https://www.bundesarchiv.de/nachricht/neue-bundesarchiv-website-ist-online/</link>
+      <description>Das Bundesarchiv hat eine neue Website: Sie gibt Bundesarchiv und Stasi-Unterlagen-Archiv ein gemeinsames digitales Haus und Nutzerinnen und Nutzern neue Möglichkeiten, die umfangreichen Angebote zu erschließen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neue-bundesarchiv-website-ist-online/</guid>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Round Table zum Kolonialismus in Berlin-Lichterfelde</title>
+      <link>https://www.bundesarchiv.de/nachricht/round-table-zum-kolonialismus-in-berlin-lichterfelde/</link>
+      <description>Am 28. August hat das Bundesarchiv in Berlin-Lichterfelde zu einem Round Table zum Umgang mit kolonialen Quellen eingeladen. Daran nahmen Expertinnen und Experten aus verschiedenen Gedächtnisinstitutionen, aber auch aus dem Bereich der Provenienzforschung, der Medien sowie der Zivilgesellschaft teil.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/round-table-zum-kolonialismus-in-berlin-lichterfelde/</guid>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 Wochen und ein Publikumsrekord: Das war das Campus-Kino 2024</title>
+      <link>https://www.bundesarchiv.de/nachricht/der-vorhang-faellt-fuer-das-campus-kino-2024/</link>
+      <description>Mit dem Spielfilm „In Zeiten des abnehmenden Lichts“ fand gestern Abend das Campus-Kino 2024 nach abwechslungsreichen und intensiven vier Wochen seinen erfolgreichen Abschluss: Über 8.000 Besucherinnen und Besucher fanden insgesamt den Weg zum Open-Air-Kino – ein neuer Publikumsrekord zum fünfjährigen Jubiläum.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/der-vorhang-faellt-fuer-das-campus-kino-2024/</guid>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Lernt Polnisch – Solidarność, die DDR und die Stasi“: Ausstellung in Stettin eröffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/lernt-polnisch-solidarnosc-die-ddr-und-die-stasi-ausstellung-in-stettin-eroeffnet-1/</link>
+      <description>„Lernt Polnisch“ war eine der Losungen, die Oppositionelle 1980/81 in der DDR verbreiteten, um den Freiheitsfunken der polnischen Oppositionsbewegung auch in der DDR zu entfachen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/lernt-polnisch-solidarnosc-die-ddr-und-die-stasi-ausstellung-in-stettin-eroeffnet-1/</guid>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acht Auszubildende starten Vorbereitungsdienst für gehobenen Archivdienst</title>
+      <link>https://www.bundesarchiv.de/nachricht/erstmals-im-stasi-unterlagen-archiv-ausbildungsstart-fuer-den-gehobenen-archivdienst-des-bundes/</link>
+      <description>Acht Archivinspektoranwärterinnen und -anwärter erhielten am 1. Oktober 2024 in Berlin ihre Ernennungsurkunden zum dreijährigen Vorbereitungsdienst für den gehobenen Archivdienst des Bundes.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/erstmals-im-stasi-unterlagen-archiv-ausbildungsstart-fuer-den-gehobenen-archivdienst-des-bundes/</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausstellung „Alles Wissen Wollen“ im Innenministerium in Schwerin eröffnet</title>
+      <link>https://www.bundesarchiv.de/nachricht/ausstellung-alles-wissen-wollen-im-innenministerium-in-schwerin-eroeffnet-1/</link>
+      <description>Am 1. Oktober 2024 eröffnete unsere Wanderausstellung „Alles Wissen Wollen. Die Stasi und ihre Dokumente“ im Innenministerium Mecklenburg-Vorpommern in Schwerin. Dabei waren u.a. Innenminister Christian Pegel, Bundesarchiv-Präsident Michael Hollmann und Evelyn Zupke, SED-Opferbeauftrage des Bundestags.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ausstellung-alles-wissen-wollen-im-innenministerium-in-schwerin-eroeffnet-1/</guid>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Besucherandrang beim Tag der Deutschen Einheit 2024</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-der-deutschen-einheit-in-schwerin-1/</link>
+      <description>Beim diesjährigen Fest der Deutschen Einheit vom 2. bis 4. Oktober in Schwerin war das Zelt des Bundesarchivs ein beliebter Anlaufpunkt und erfreute sich eines großen Interesses.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-der-deutschen-einheit-in-schwerin-1/</guid>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erstes oberstes Bundesgericht führt die digitale Zwischenarchivierung ein</title>
+      <link>https://www.bundesarchiv.de/nachricht/erstes-oberstes-bundesgericht-fuehrt-die-digitale-zwischenarchivierung-ein/</link>
+      <description>Wie kann das Bundesarchiv auch für digitale Informationen zum zentralen Bewahrer werden und ihren Erhalt und ihre Zugänglichkeit für zukünftige Generationen sichern? Einen zentralen Baustein bietet das Bundesarchiv mit dem Digitalen Zwischenarchiv des Bundes (DZAB) an.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/erstes-oberstes-bundesgericht-fuehrt-die-digitale-zwischenarchivierung-ein/</guid>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Bundesarchiv beim Deutschen Archivtag 2024 in Suhl</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-bundesarchiv-beim-deutschen-archivtag-2024-in-suhl/</link>
+      <description>Vom 8. bis 10. Oktober findet zum 91. Mal der Deutsche Archivtag statt. Gastgeberin des fachlichen Großereignisses ist in diesem Jahr die Stadt Suhl. Das Bundesarchiv beteiligt sich mit Vorträgen und Workshops.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-bundesarchiv-beim-deutschen-archivtag-2024-in-suhl/</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>19 Monate – 19 Archivarinnen und Archivare</title>
+      <link>https://www.bundesarchiv.de/nachricht/19-monate-19-archivarinnen-und-archivare/</link>
+      <description>Am 31. Oktober 2024 haben erstmals 19 Teilnehmerinnen und Teilnehmer mit bestandener Laufbahnprüfung den Verkürzten Vorbereitungsdienst abgeschlossen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/19-monate-19-archivarinnen-und-archivare/</guid>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archiv des Deutschen Musikrats übernommen</title>
+      <link>https://www.bundesarchiv.de/nachricht/archiv-des-deutschen-musikrats-uebernommen/</link>
+      <description>Um Forschung und Öffentlichkeit Einblicke in die bewegte Vereinsgeschichte geben zu können, überlässt der Deutsche Musikrat e. V. sein Archivgut dem Bundesarchiv am Standort Koblenz.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/archiv-des-deutschen-musikrats-uebernommen/</guid>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Über 5.000 Besucherinnen und Besucher beim Demokratie-Festival „Revolution! – und dann?“</title>
+      <link>https://www.bundesarchiv.de/nachricht/ueber-5000-besucherinnen-und-besucher-beim-demokratie-festival-revolution-und-dann/</link>
+      <description>35 Jahre nach Mauerfall und Friedlicher Revolution feierten am 10. November 2024 mehr als 5.000 Menschen an der „Stasi-Zentrale. Campus für Demokratie“ das Demokratie-Festival „Revolution! – und dann?“ mit Führungen, Workshops, Diskussion, Einblicken in die Forschung zum Stasi-Unterlagen-Archiv, Theater und Konzerten.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ueber-5000-besucherinnen-und-besucher-beim-demokratie-festival-revolution-und-dann/</guid>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Das Grundgesetz nach 75 Jahren“: Vortrag von Dieter Grimm, Bundesverfassungsrichter a. D.</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-grundgesetz-nach-75-jahren-vortrag-des-ehemaligen-bundesverfassungsrichters-dieter-grimm-im-bundesarchiv/</link>
+      <description>Am 7. November 2024 sprach der ehemalige Bundesverfassungsrichter Dieter Grimm im Bundesarchiv Koblenz über die Wirkungsgeschichte des Grundgesetzes.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-grundgesetz-nach-75-jahren-vortrag-des-ehemaligen-bundesverfassungsrichters-dieter-grimm-im-bundesarchiv/</guid>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Der unkommentierte Jahrgang 1993 der Edition „Die Kabinettsprotokolle der Bundesregierung“ ist online</title>
+      <link>https://www.bundesarchiv.de/nachricht/neuer-band-der-kabinettsprotokolle-der-bundesregierung-zum-jahr-1993-ist-online/</link>
+      <description>Das vierte Kabinett von Bundeskanzler Helmut Kohl (CDU) sieht sich 1993 zahlreichen nationalen und internationalen Herausforderungen gegenüber, die sich in den Kabinettsprotokollen widerspiegeln.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neuer-band-der-kabinettsprotokolle-der-bundesregierung-zum-jahr-1993-ist-online/</guid>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Einschränkungen der Antragsbearbeitung beim Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/einschraenkungen-der-antragsbearbeitung-beim-stasi-unterlagen-archiv/</link>
+      <description>Aufgrund größerer baulich-technischer Beeinträchtigungen in der Registratur der Zentralstelle des Stasi-Unterlagen-Archivs kann es bis Ende 2026 zu Einschränkungen in der Antragsbearbeitung kommen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/einschraenkungen-der-antragsbearbeitung-beim-stasi-unterlagen-archiv/</guid>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Die lange Ungewissheit hat uns fertig gemacht"</title>
+      <link>https://www.bundesarchiv.de/nachricht/die-lange-ungewissheit-hat-uns-fertig-gemacht/</link>
+      <description>Der TV-Journalist und Musiker Reinhold Beckmann war im Bundesarchiv zu Gast und hat sein Buch "Aenne und ihre Brüder" vorgestellt. "Viele im Bundesarchiv haben geackert für diese Recherche", sagte Beckmann mit Blick auf die umfangreichen Arbeiten, die sich auf die Spur der vier im Zweiten Weltkrieg gefallenen Brüder seiner Mutter Aenne begeben hatten: Franz, Hans, Alfons und Willi.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/die-lange-ungewissheit-hat-uns-fertig-gemacht/</guid>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aus dem Filmarchiv wird die Abteilung Audiovisuelle Medien (AV)</title>
+      <link>https://www.bundesarchiv.de/nachricht/umbenennung-der-abteilung-filmarchiv-fa-des-bundesarchivs-in-abteilung-audiovisuelle-medien-av/</link>
+      <description>Zum 1. Januar 2025 wird die Abteilung Filmarchiv in Abteilung Audiovisuelle Medien (AV) umbenannt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/umbenennung-der-abteilung-filmarchiv-fa-des-bundesarchivs-in-abteilung-audiovisuelle-medien-av/</guid>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aktionstag „35 Jahre Erstürmung der Stasi-Zentrale“</title>
+      <link>https://www.bundesarchiv.de/nachricht/aktionstag-35-jahre-erstuermung-der-stasi-zentrale/</link>
+      <description>Mit Führungen durch Ausstellungen, Magazine und über das Gelände erinnerte ein Aktionstag am historischen Ort der ehemaligen Stasi-Zentrale zusammen mit über 500 Besucherinnen und Besuchern an den 35. Jahrestag der Erstürmung. Den Abschluss bildete eine Podiumsdiskussion.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/aktionstag-35-jahre-erstuermung-der-stasi-zentrale/</guid>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aus EHRI wird ERIC – Unterzeichnung zum dauerhaften Fortbestand des EHRI-Projekts</title>
+      <link>https://www.bundesarchiv.de/nachricht/default-446c40fb68bba4f546b99a84caea30f2/</link>
+      <description>Das Projekt European Holocaust Research Infrastructure (EHRI) gehört nun dauerhaft zur europäischen Forschungsinfrastruktur. Am 26. Januar 2025 – dem Vorabend des Holocaust-Gedenktages – fand im POLIN-Museum in Warschau die feierliche Unterzeichnung des Vertrags statt: Einer Entscheidung der Europäischen Kommission folgend wurde EHRI damit als European Research Infrastructure Consortium (ERIC) eingerichtet.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/default-446c40fb68bba4f546b99a84caea30f2/</guid>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geheimpolizeien im Sozialismus: Forschungsergebnisse und Bilanz der Aufarbeitung im Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/geheimpolizeien-im-sozialismus-forschungsergebnisse-und-bilanz-der-aufarbeitung-im-stasi-unterlagen-archiv/</link>
+      <description>„Staats-Sicherheiten im Sozialismus“ – zu diesem Thema fand vom 5. bis zum 8. Februar auf dem Campus für Demokratie eine wissenschaftliche Tagung des Bundesarchiv – Stasi-Unterlagen-Archiv statt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/geheimpolizeien-im-sozialismus-forschungsergebnisse-und-bilanz-der-aufarbeitung-im-stasi-unterlagen-archiv/</guid>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friedensbewegung in der DDR: Lehrkräftefortbildungen und Publikation zu Abi-Thema</title>
+      <link>https://www.bundesarchiv.de/nachricht/friedensbewegung-in-der-ddr-lehrkraeftefortbildungen-und-publikation-zu-abi-thema/</link>
+      <description>Das Bundesarchiv – Stasi-Unterlagen-Archiv hat drei Online-Lehrkräftefortbildungen zur Friedensbewegung in der DDR durchgeführt. Das Thema wird zukünftig auch Teil des Abiturs für die Leistungskurse Geschichte sein.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/friedensbewegung-in-der-ddr-lehrkraeftefortbildungen-und-publikation-zu-abi-thema/</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pilotprojekt Benutzung im Lastenausgleichsarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/pilotprojekt-benutzung-im-lastenausgleichsarchiv/</link>
+      <description>Das Lastenausgleichsarchiv im Bundesarchiv hat ein Pilotprojekt gestartet. Sein Ziel ist die Verkürzung der Bearbeitungszeiten bei schriftlichen Benutzungsanfragen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/pilotprojekt-benutzung-im-lastenausgleichsarchiv/</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Staatsministerin im Auswärtigen Amt besucht Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/staatsministerin-im-auswaertigen-amt-besucht-bundesarchiv/</link>
+      <description>Die für internationale Kulturpolitik zuständige Staatsministerin im Auswärtigen Amt Katja Keul war am 7. März im Bundesarchiv in Berlin-Lichterfelde zu Gast.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/staatsministerin-im-auswaertigen-amt-besucht-bundesarchiv/</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„... und dafür gab es Gefängnis ...“</title>
+      <link>https://www.bundesarchiv.de/nachricht/und-dafuer-gab-es-gefaengnis/</link>
+      <description>Am 15.3. waren die beiden Zeitzeugen Rocco Schettler und Enrico Seewald zu Gast im Bundesarchiv – Stasi-Unterlagen-Archiv in Chemnitz.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/und-dafuer-gab-es-gefaengnis/</guid>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Datenbank „Liste der jüdischen Einwohner im Deutschen Reich 1933-1945 in den Grenzen vom 31.12.1937“ – Ausschreibung von Werkverträgen</title>
+      <link>https://www.bundesarchiv.de/nachricht/datenbank-liste-der-juedischen-einwohner-im-deutschen-reich-1933-1945-in-den-grenzen-vom-31121937-ausschreibung-von-werkvertraegen-1/</link>
+      <description>Das Bundesarchiv arbeitet an einer komplexen Datenbank mit biografischen Informationen zu im Deutschen Reich verfolgten Jüdinnen und Juden.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/datenbank-liste-der-juedischen-einwohner-im-deutschen-reich-1933-1945-in-den-grenzen-vom-31121937-ausschreibung-von-werkvertraegen-1/</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zukunftstag 2025: „Boys’Day“ im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/boys-day-im-bundesarchiv/</link>
+      <description>Im Rahmen des „Boys’Day“ am 3. April 2025 waren 75 Jugendliche im Alter von 13 bis 18 Jahren zu Gast im Bundesarchiv.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/boys-day-im-bundesarchiv/</guid>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eine Offizierskiste und eine Recherche im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/eine-offizierskiste-und-eine-recherche-im-bundesarchiv/</link>
+      <description>Zum Abschluss einer mehrmonatigen Recherche zu einem Wehrmachtsoffizier hat ein Oberstufen-Geschichtskurs des Kölner Apostel-Gymnasiums das Bundesarchiv besucht. Am Standort Berlin-Lichterfelde schauten sich die Schülerinnen und Schüler gemeinsam mit Bundesarchiv-Vizepräsidentin Andrea Hänger verschiedene Bereiche des Archivs an.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/eine-offizierskiste-und-eine-recherche-im-bundesarchiv/</guid>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#PressefreiheitIstDeineFreiheit: 180 Jugendliche beim Aktionstag auf dem Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/pressefreiheitistdeinefreiheit-180-jugendliche-beim-aktionstag-auf-dem-campus-fuer-demokratie/</link>
+      <description>#PressefreiheitIstDeineFreiheit – unter diesem Motto erlebten etwa 180 Schülerinnen und Schüler auf dem Campus für Demokratie in der ehemaligen Stasi-Zentrale einen interaktiven Aktionstag rund um Medien- und Meinungsvielfalt, Pressefreiheit und Bedrohungen durch Desinformation.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/pressefreiheitistdeinefreiheit-180-jugendliche-beim-aktionstag-auf-dem-campus-fuer-demokratie/</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Ein schwieriges, hartes Jahr ...“</title>
+      <link>https://www.bundesarchiv.de/nachricht/ein-schwieriges-hartes-jahr/</link>
+      <description>Die Kabinettsprotokolle der Bundesregierung aus dem Jahr 1994 sind unkommentiert online einsehbar.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ein-schwieriges-hartes-jahr/</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Online-Anwendungen des Bundesarchivs ab 16. Mai vorübergehend nicht verfügbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/online-anwendungen-des-bundesarchivs-vom-1104-1304-nicht-verfuegbar/</link>
+      <description>Wegen einer geplanten Stromabschaltung in Koblenz sind von Freitag, 16.05.2025, ab 15 Uhr bis voraussichtlich 18.05.2025 Online-Anwendungen des Bundesarchivs vorübergehend nicht verfügbar.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/online-anwendungen-des-bundesarchivs-vom-1104-1304-nicht-verfuegbar/</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HIS-Archiv kommt 2028 ins Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/his-archiv-kommt-2028-ins-bundesarchiv/</link>
+      <description>Das Archiv des Hamburger Instituts für Sozialforschung (HIS) wird nach dem Ende der Institutsarbeit 2028 vom Bundesarchiv übernommen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/his-archiv-kommt-2028-ins-bundesarchiv/</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debatte zur Rolle der Nachrichtendienste in angespannten Zeiten</title>
+      <link>https://www.bundesarchiv.de/nachricht/debatte-zur-rolle-der-nachrichtendienste-in-angespannten-zeiten/</link>
+      <description>Vor welchen Herausforderungen stehen demokratische Staaten in aktuellen Krisensituationen und welche Bedeutung haben diese für die nachrichtendienstliche Arbeit?</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/debatte-zur-rolle-der-nachrichtendienste-in-angespannten-zeiten/</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spot an fürs Bundesarchiv! Gespräche und Geschichten im Tränenpalast</title>
+      <link>https://www.bundesarchiv.de/nachricht/spot-an-fuers-bundesarchiv-gespraeche-und-geschichten-im-traenenpalast/</link>
+      <description>Am 26. Mai 2025 blickte die Journalistin Nora Hespers bei der Veranstaltung „Spot an fürs Bundesarchiv!“ gemeinsam mit ihren Gästen in Dokumente des Bundesarchivs und die Geschichten, die sie erzählen.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/spot-an-fuers-bundesarchiv-gespraeche-und-geschichten-im-traenenpalast/</guid>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuer Kulturstaatsminister Wolfram Weimer besucht Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/neuer-kulturstaatsminister-wolfram-weimer-besucht-bundesarchiv/</link>
+      <description>Der Beauftragte der Bundesregierung für Kultur und Medien Wolfram Weimer besuchte das Bundesarchiv an seinem Standort in Berlin-Lichterfelde.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neuer-kulturstaatsminister-wolfram-weimer-besucht-bundesarchiv/</guid>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Wehrhafte Demokratie“: Zur Bedeutung von Akten für die Glaubwürdigkeit staatlicher Institutionen</title>
+      <link>https://www.bundesarchiv.de/nachricht/wehrhafte-demokratie-zur-bedeutung-von-akten-fuer-die-glaubwuerdigkeit-staatlicher-institutionen/</link>
+      <description>„Was braucht eine wehrhafte Demokratie?“ Vor allem: informierte Bürgerinnen und Bürger, die das Handeln des Staates und seiner Organe nachvollziehen und so in dessen Rechtmäßigkeit vertrauen können. Nur dann können sie ihre ureigene Rolle als mündige Wählerinnen und Wähler wirklich ausfüllen. Dazu und zur Rolle des Bundesarchivs sprach Bundesarchiv-Präsident Michael Hollmann auf dem Kongress „Wehrhafte Demokratie“.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/wehrhafte-demokratie-zur-bedeutung-von-akten-fuer-die-glaubwuerdigkeit-staatlicher-institutionen/</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leiter International, Impartial and Independent Mechanism (IIIM) der Vereinten Nationen beim Stasi-Unterlagen-Archiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/leiter-international-impartial-and-independent-mechanism-iiim-der-vereinten-nationen-beim-stasi-unterlagen-archiv/</link>
+      <description>IIIM-Leiter Robert Petit besuchte das Bundesarchiv – Stasi-Unterlagen-Archiv in Berlin-Lichtenberg. Er informierte sich u. a. über die Entscheidung zur Aufarbeitung und den heutigen Stand der Arbeit des Stasi-Unterlagen-Archivs.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/leiter-international-impartial-and-independent-mechanism-iiim-der-vereinten-nationen-beim-stasi-unterlagen-archiv/</guid>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>70 Jahre Militärarchiv im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/70-jahre-militaerarchiv-im-bundesarchiv/</link>
+      <description>Mit der Gründung der Bundeswehr im Jahr 1955 wurde das Bundesarchiv zuständig für die Überlieferung des Bundesministeriums der Verteidigung und der Bundeswehr. Am 1. August 1955 folgte daher die Einrichtung der Abteilung Militärarchiv (MA) in Koblenz.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/70-jahre-militaerarchiv-im-bundesarchiv/</guid>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leitbild des Bundesarchivs: Wegweiser zu Wissen</title>
+      <link>https://www.bundesarchiv.de/nachricht/leitbild-des-bundesarchivs-wegweiser-zu-wissen/</link>
+      <description>Als eine der größten Kultureinrichtungen Deutschlands schützt und pflegt das Bundesarchiv das kulturelle Erbe dieses Landes und bildet ein wichtiges Fundament der deutschen Erinnerungskultur.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/leitbild-des-bundesarchivs-wegweiser-zu-wissen/</guid>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10.700 Besucherinnen und Besucher beim Campus-Kino 2025</title>
+      <link>https://www.bundesarchiv.de/nachricht/10700-besucherinnen-und-besucher-beim-campus-kino-2025/</link>
+      <description>Über vier Wochen war der Innenhof der ehemaligen Stasi-Zentrale Schauplatz eines abwechslungsreichen Open-Air-Kinos – vielfältiger denn je und gut besucht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/10700-besucherinnen-und-besucher-beim-campus-kino-2025/</guid>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neue Zuständigkeit für personenbezogene Anfragen und Auskünfte zu Militärangehörigen bis 1945</title>
+      <link>https://www.bundesarchiv.de/nachricht/neue-zustaendigkeit-fuer-personenbezogene-anfragen-und-auskuenfte-zu-militaerangehoerigen-bis-1945/</link>
+      <description>Seit dem 1. September 2025 ist die Abteilung Deutsches Reich am Standort Berlin-Tegel für alle personenbezogenen Anfragen und Auskünfte zu Militärangehörigen bis 1945 zuständig. Sie übernimmt damit die Zuständigkeit von der Abteilung Militärarchiv am Standort Freiburg.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/neue-zustaendigkeit-fuer-personenbezogene-anfragen-und-auskuenfte-zu-militaerangehoerigen-bis-1945/</guid>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Bundesarchiv beim Tag der Deutschen Einheit 2025</title>
+      <link>https://www.bundesarchiv.de/nachricht/das-bundesarchiv-beim-tag-der-deutschen-einheit-2025-1/</link>
+      <description>Beim diesjährigen Fest der Deutschen Einheit vom 2. bis 4. Oktober in Saarbrücken erfreute sich das Zelt des Bundesarchivs eines großen Interesses. Viele Besucherinnen und Besucher waren erstaunt, dass die Staatssicherheit der DDR „so tief im Westen“ aktiv war. Auch das neue Dokumentenheft „Die Stasi im Saarland“ fand großen Absatz.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/das-bundesarchiv-beim-tag-der-deutschen-einheit-2025-1/</guid>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zurück in die Zukunft? Ein Diskussionsabend zur Bundeswehr</title>
+      <link>https://www.bundesarchiv.de/nachricht/zurueck-in-die-zukunft-ein-diskussionsabend-zur-bundeswehr/</link>
+      <description>Anlässlich des 70. Gründungsjahres der Bundeswehr fand am 27. Oktober 2025 im Bundesarchiv Koblenz eine Podiumsdiskussion zur Geschichte und Zukunft der deutschen Streitkräfte statt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/zurueck-in-die-zukunft-ein-diskussionsabend-zur-bundeswehr/</guid>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ausstellungseröffnung: „,Habe ich den Film erfunden?‘ Max Skladanowsky – Pionier, Visionär &amp; Hochstapler“</title>
+      <link>https://www.bundesarchiv.de/nachricht/ausstellungseroeffnung-habe-ich-den-film-erfunden-max-skladanowsky-pionier-visionaer-hochstapler/</link>
+      <description>Am 30. Oktober 2025 wurde in Berlin-Lichterfelde eine neue Ausstellung mit Filmen, Geräten, Dokumenten, Fotografien und weiteren Fundstücken aus dem Nachlass der Gebrüder Skladanowsky eröffnet.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ausstellungseroeffnung-habe-ich-den-film-erfunden-max-skladanowsky-pionier-visionaer-hochstapler/</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restitution von NS-Raubgut an das Institut für Sozialforschung Frankfurt/Main</title>
+      <link>https://www.bundesarchiv.de/nachricht/restitution-von-ns-raubgut-an-das-institut-fuer-sozialforschung-frankfurt-main/</link>
+      <description>Das Bundesarchiv hat am 30. September 2025 in der NS-Zeit zu Unrecht beschlagnahmtes Bibliotheks- und Archivgut an das Institut für Sozialforschung (IfS) in Frankfurt (Main) zurückgegeben. Es enthält 1.200 Bände aus der Bibliothek der Stiftung Archiv der Parteien und Massenorganisationen der DDR im Bundesarchiv (SAPMO) sowie 572 Mappen aus dem Bestand RY 22 „Archiv des Instituts für Sozialforschung“ aus dem Archiv der SAPMO.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/restitution-von-ns-raubgut-an-das-institut-fuer-sozialforschung-frankfurt-main/</guid>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diensttagebuch Friedrich Fromms an Bundesarchiv übergeben</title>
+      <link>https://www.bundesarchiv.de/nachricht/diensttagebuch-friedrich-fromms-an-bundesarchiv-uebergeben/</link>
+      <description>Das Bundesarchiv hat das Diensttagebuch Friedrich Fromms übernommen, der vor allem durch seine Rolle beim gescheiterten Attentat auf Adolf Hitler vom 20. Juli 1944 bekannt ist.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/diensttagebuch-friedrich-fromms-an-bundesarchiv-uebergeben/</guid>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Berlin Freedom Week auf dem Campus für Demokratie</title>
+      <link>https://www.bundesarchiv.de/nachricht/berlin-freedom-week/</link>
+      <description>Am 8. November 2025 wurde die erste Berlin Freedom Week auf dem Campus für Demokratie eröffnet – eine stadtweite Veranstaltungswoche mit über 130 Konferenzen, Führungen, digitalen Events und vielem mehr.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/berlin-freedom-week/</guid>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lastenausgleichsarchiv passt Bearbeitungsprozess an</title>
+      <link>https://www.bundesarchiv.de/nachricht/lastenausgleichsarchiv-passt-bearbeitungsprozess-an/</link>
+      <description>Das Lastenausgleichsarchiv gibt Auskunft zu Fragen rund um Flucht und Vertreibung von Deutschen am Ende des Zweiten Weltkrieges. Aufgrund hohen Anfrageaufkommens ist es zu Bearbeitungsrückständen gekommen. Um diese abzubauen und dringliche Anfragen weiterhin bearbeiten zu können, passt das LAA zum 16. Januar seine Prozesse an.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/lastenausgleichsarchiv-passt-bearbeitungsprozess-an/</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Datenbank „Liste der jüdischen Einwohner im Deutschen Reich 1933–1945 in den Grenzen vom 31.12.1937“ – Ausschreibung von Werkverträgen</title>
+      <link>https://www.bundesarchiv.de/nachricht/datenbank-liste-der-juedischen-einwohner-im-deutschen-reich-1933-1945-in-den-grenzen-vom-31121937-ausschreibung-von-werkvertraegen-2/</link>
+      <description>Das Bundesarchiv arbeitet an einer komplexen Datenbank mit biografischen Informationen zu im Deutschen Reich verfolgten Jüdinnen und Juden.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/datenbank-liste-der-juedischen-einwohner-im-deutschen-reich-1933-1945-in-den-grenzen-vom-31121937-ausschreibung-von-werkvertraegen-2/</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Das Bundesarchiv auf der Bildungsmesse „didacta“</title>
+      <link>https://www.bundesarchiv.de/nachricht/bundesarchiv-auf-der-bildungsmesse-didacta-1/</link>
+      <description>Vom 10. bis 14. März 2026 präsentiert das Bundesarchiv seine Bildungsangebote auf der „didacta“ in Köln, der größten Bildungsmesse Europas. Die quellenbasierten Bildungsmaterialien sind für Lehrkräfte gerade in Zeiten von Desinformation und Fake News ein wertvoller Baustein der Arbeit im Unterricht.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/bundesarchiv-auf-der-bildungsmesse-didacta-1/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>eID-Funktion bei invenio vorübergehend nicht verfügbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/default-807fea63b320eb13dd445066a9e66a5a/</link>
+      <description>Derzeit ist eine Anmeldung oder Registrierung bei invenio per eID-Funktion nicht möglich. Alle Informationen im Überblick.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/default-807fea63b320eb13dd445066a9e66a5a/</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
