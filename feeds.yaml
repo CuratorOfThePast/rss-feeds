@@ -9,7 +9,3 @@ feeds:
     script: bundesarchiv_blog.py
     type: requests
     blog_url: https://www.bundesarchiv.de/aktuelles/
-  auswaertiges_amt_archiv:
-    script: "Politisches Archiv des Auswärtigen Amts.py"
-    type: requests
-    blog_url: https://archiv.diplo.de/arc-de/aktuelles/

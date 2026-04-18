@@ -7,7 +7,6 @@ Dieses Repository generiert automatisch RSS-Feeds für deutsche Archive, die von
 | Archiv | Feed |
 | --- | --- |
 | [Bundesarchiv Aktuelles](https://www.bundesarchiv.de/aktuelles/) | [feed_bundesarchiv.xml](./feeds/feed_bundesarchiv.xml) |
-| [Politisches Archiv des Auswärtigen Amts](https://archiv.diplo.de/arc-de/aktuelles/) | [feed_auswaertiges_amt_archiv.xml](./feeds/feed_auswaertiges_amt_archiv.xml) |
 
 ## Wie es funktioniert
 
