@@ -10,7 +10,7 @@ Dieses Repository generiert automatisch RSS-Feeds für deutsche Archive, die von
 
 ## Wie es funktioniert
 
-Ein GitHub-Workflow prüft jede Stunde auf neue Inhalte auf den Webseiten der Archive. Wenn neue Beiträge gefunden werden, wird die entsprechende XML-Datei im Ordner `feeds/` aktualisiert.
+Ein GitHub-Workflow prüft am Tag zweimal auf neue Inhalte auf den Webseiten der Archive. Wenn neue Beiträge gefunden werden, wird die entsprechende XML-Datei im Ordner `feeds/` aktualisiert.
 
 ## Installation & Entwicklung
 
