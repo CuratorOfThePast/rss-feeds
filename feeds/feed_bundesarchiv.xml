@@ -13,7 +13,7 @@
       <link>https://www.bundesarchiv.de/aktuelles/</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:44:55 +0000</lastBuildDate>
     <item>
       <title>"Eine sehr gute Entscheidung"</title>
       <link>https://www.bundesarchiv.de/nachricht/eine-sehr-gute-entscheidung/</link>
@@ -2141,6 +2141,13 @@
       <description>Was passiert in einem Magazin? Wie wird Geschichte archiviert? Welche Aufgaben hat die Verwaltung des Bundesarchivs? Knapp 100 Jugendliche im Alter von 13 bis 18 Jahren gingen diesen und weiteren Fragen beim diesjährigen Girls‘ und Boys‘ Day am 23. April 2026 im Bundesarchiv auf den Grund.</description>
       <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/girls-und-boys-day-2026-im-bundesarchiv/</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zwischen Fakten und Fake News</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit/</link>
+      <description>Posten, teilen, kommentieren – nie war es so einfach, Informationen zu konsumieren und zu verbreiten. Gleichzeitig fällt es vielen Menschen schwer, Fakten von Desinformation zu unterscheiden. Vor diesem Hintergrund hatten 120 Schülerinnen und Schüler am 28. April 2026 Gelegenheit, sich intensiv mit den Themen Pressefreiheit, Desinformation und Informationskompetenz auseinanderzusetzen. Anlass war der Tag der Pressefreiheit in der Stasi-Zentrale. Campus für Demokratie in Berlin.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
