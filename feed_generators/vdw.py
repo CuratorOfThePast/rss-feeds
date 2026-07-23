@@ -1,18 +1,23 @@
 from contextlib import suppress
 from datetime import datetime
+from pathlib import Path
+from urllib.parse import urljoin
 
 import pytz
+import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
-from utils import fetch_page, get_project_root, save_rss_feed, setup_feed_links, setup_logging
+if __package__ in {None, ""}:
+    import sys
 
-logger = setup_logging()
+    sys.path.append(str(Path(__file__).resolve().parent.parent))
+
+from feed_generators.utils import fetch_page, get_project_root, save_rss_feed, setup_feed_links
 
 FEED_NAME = "wirtschaftsarchive"
 BLOG_URL = "https://www.wirtschaftsarchive.de/aktuelles/mitteilungen/"
 LOCAL_FILE_NAME = "wirtschaftsarchive_mitteilungen.htm"
-
 
 def fetch_blog_content(url=BLOG_URL):
     project_root = get_project_root()
@@ -20,15 +25,15 @@ def fetch_blog_content(url=BLOG_URL):
 
     for local_path in local_files:
         if local_path.exists():
-            logger.info(f"Reading from local file for development: {local_path}")
+            print(f"Reading from local file for development: {local_path}")
             with open(local_path, encoding="utf-8") as f:
                 return f.read()
 
     try:
-        logger.info(f"Fetching blog content from URL: {url}")
+        print(f"Fetching blog content from URL: {url}")
         return fetch_page(url)
     except Exception as e:
-        logger.error(f"Error fetching blog content: {e!s}")
+        print(f"Error fetching blog content: {e}")
         raise
 
 
@@ -37,36 +42,54 @@ def parse_blog_html(html_content):
         soup = BeautifulSoup(html_content, "html.parser")
         blog_posts = []
 
-        articles = soup.select("article")
+        # Gezielt nur Artikel der News-Liste erfassen (ignoriert Navigation & Header/Footer)
+        articles = soup.select("article.news-teaser")
         if not articles:
-            articles = soup.select(".news-item, .list-item, .item")
+            articles = soup.select(".news-list__item, .news-teaser")
 
         for article in articles:
-            title_elem = article.select_one("h2") or article.select_one("h3") or article.select_one("a.title")
-            if not title_elem:
+            # 1. Titel & Kategorie
+            headline_elem = article.select_one(".news-teaser__headline") or article.select_one("h3, h2")
+            if not headline_elem:
                 continue
-            title = title_elem.text.strip()
+            
+            title = headline_elem.get_text(strip=True)
 
-            date_elem = article.select_one("time")
-            date_obj = datetime.now(pytz.UTC)
+            category_elem = article.select_one(".news-teaser__category")
+            if category_elem and category_elem.get_text(strip=True):
+                category = category_elem.get_text(strip=True)
+                title = f"[{category}] {title}"
 
-            if date_elem and date_elem.get("datetime"):
-                with suppress(ValueError):
-                    date_obj = datetime.strptime(date_elem["datetime"].split("T")[0], "%Y-%m-%d")
-            elif date_elem:
-                with suppress(ValueError):
-                    date_obj = datetime.strptime(date_elem.text.strip(), "%d.%m.%Y")
+            # 2. Datum aus <time> lesen
+            date_elem = article.select_one("time.news-teaser__datetime") or article.select_one("time")
+            date_obj = None
 
-            desc_elem = article.select_one("p")
-            description = desc_elem.text.strip() if desc_elem else title
+            if date_elem:
+                # Versuch A: Aus dem 'datetime'-Attribut (z. B. "2026-07-14")
+                if date_elem.get("datetime"):
+                    with suppress(ValueError):
+                        dt_str = date_elem["datetime"].split("T")[0]
+                        date_obj = datetime.strptime(dt_str, "%Y-%m-%d").replace(tzinfo=pytz.UTC)
 
-            link_elem = article.select_one("a[href]")
+                # Versuch B: Aus dem HTML-Inhalt (z. B. "14.07.2026")
+                if not date_obj:
+                    with suppress(ValueError):
+                        date_obj = datetime.strptime(date_elem.get_text(strip=True), "%d.%m.%Y").replace(tzinfo=pytz.UTC)
+
+            # Standard-Fallback, falls kein Datum geparst werden konnte
+            if not date_obj:
+                date_obj = datetime.now(pytz.UTC)
+
+            # 3. Beschreibung (Vorschautext)
+            desc_elem = article.select_one(".news-teaser__text") or article.select_one("p")
+            description = desc_elem.get_text(" ", strip=True) if desc_elem else title
+
+            # 4. Link auslesen
+            link_elem = article.select_one("a.news-teaser__link") or article.select_one("a[href]")
             if not link_elem or not link_elem.get("href"):
                 continue
 
-            link = link_elem["href"]
-            if link.startswith("/"):
-                link = f"https://www.wirtschaftsarchive.de{link}"
+            link = urljoin(BLOG_URL, link_elem["href"])
 
             blog_posts.append(
                 {
@@ -77,9 +100,12 @@ def parse_blog_html(html_content):
                 }
             )
 
-        return blog_posts
+        # Dubletten entfernen & absteigend nach Datum sortieren
+        unique_posts = {(p["link"], p["title"]): p for p in blog_posts}.values()
+        return sorted(list(unique_posts), key=lambda x: x["date"], reverse=False)
+
     except Exception as e:
-        logger.error(f"Error parsing HTML content: {e!s}")
+        print(f"Error parsing HTML content: {e}")
         raise
 
 
@@ -106,7 +132,7 @@ def generate_rss_feed(blog_posts, feed_name=FEED_NAME):
 
         return fg
     except Exception as e:
-        logger.error(f"Error generating RSS feed: {e!s}")
+        print(f"Error generating RSS feed: {e}")
         raise
 
 
@@ -115,12 +141,13 @@ def main():
         html_content = fetch_blog_content()
         blog_posts = parse_blog_html(html_content)
         if not blog_posts:
+            print("Keine Beiträge gefunden.")
             return False
         feed = generate_rss_feed(blog_posts)
         save_rss_feed(feed, FEED_NAME)
         return True
     except Exception as e:
-        logger.error(f"Failed to generate RSS feed: {e!s}")
+        print(f"Failed to generate RSS feed: {e}")
         return False
 
 

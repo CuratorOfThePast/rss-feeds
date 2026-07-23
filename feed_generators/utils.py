@@ -12,7 +12,12 @@ import pytz
 import requests
 from feedgen.feed import FeedGenerator
 
-from models import GlobalSettings
+if __package__ in {None, ""}:
+    import sys
+
+    sys.path.append(str(Path(__file__).resolve().parent.parent))
+
+from feed_generators.models import GlobalSettings
 
 # ---------------------------------------------------------------------------
 # Constants
