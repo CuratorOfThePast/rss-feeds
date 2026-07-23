@@ -1,5 +1,5 @@
+from contextlib import suppress
 from datetime import datetime
-from pathlib import Path
 
 import pytz
 from bs4 import BeautifulSoup
@@ -51,15 +51,11 @@ def parse_blog_html(html_content):
             date_obj = datetime.now(pytz.UTC)
 
             if date_elem and date_elem.get("datetime"):
-                try:
+                with suppress(ValueError):
                     date_obj = datetime.strptime(date_elem["datetime"].split("T")[0], "%Y-%m-%d")
-                except ValueError:
-                    pass
             elif date_elem:
-                try:
+                with suppress(ValueError):
                     date_obj = datetime.strptime(date_elem.text.strip(), "%d.%m.%Y")
-                except ValueError:
-                    pass
 
             desc_elem = article.select_one("p")
             description = desc_elem.text.strip() if desc_elem else title
@@ -129,22 +125,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-
-
-def main():
-    try:
-        html_content = fetch_blog_content()
-        blog_posts = parse_blog_html(html_content)
-        if not blog_posts:
-            return False
-        feed = generate_rss_feed(blog_posts)
-        save_rss_feed(feed, FEED_NAME)
-        return True
-    except Exception as e:
-        logger.error(f"Failed to generate RSS feed: {e!s}")
-        return False
-
-if __name__ == "__main__":
->>>>>>> ef08fbe1ccc89bea5649656b2a884c4e2bd2f35d
     main()
