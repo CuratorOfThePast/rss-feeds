@@ -36,6 +36,7 @@ jobs:
           set -e
           uv sync
           uv run python feed_generators/bundesarchiv_blog.py
+          uv run python vdw.py
 
       - name: Commit and push feeds
         if: github.ref == 'refs/heads/main'
@@ -46,6 +47,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Update Bundesarchiv RSS feed'
+            git commit -m 'Update RSS feeds'
             git push
           fi

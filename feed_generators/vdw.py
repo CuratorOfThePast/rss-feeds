@@ -5,7 +5,7 @@ import pytz
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
-from utils import fetch_page, save_rss_feed, setup_feed_links, setup_logging, get_project_root
+from utils import fetch_page, get_project_root, save_rss_feed, setup_feed_links, setup_logging
 
 logger = setup_logging()
 
@@ -16,15 +16,12 @@ LOCAL_FILE_NAME = "wirtschaftsarchive_mitteilungen.htm"
 
 def fetch_blog_content(url=BLOG_URL):
     project_root = get_project_root()
-    local_files = [
-        project_root / LOCAL_FILE_NAME,
-        project_root / "wirtschaftsarchive.htm"
-    ]
+    local_files = [project_root / LOCAL_FILE_NAME, project_root / "wirtschaftsarchive.htm"]
 
     for local_path in local_files:
         if local_path.exists():
             logger.info(f"Reading from local file for development: {local_path}")
-            with open(local_path, "r", encoding="utf-8") as f:
+            with open(local_path, encoding="utf-8") as f:
                 return f.read()
 
     try:
@@ -40,9 +37,9 @@ def parse_blog_html(html_content):
         soup = BeautifulSoup(html_content, "html.parser")
         blog_posts = []
 
-        articles = soup.select('article')
+        articles = soup.select("article")
         if not articles:
-            articles = soup.select('.news-item, .list-item, .item')
+            articles = soup.select(".news-item, .list-item, .item")
 
         for article in articles:
             title_elem = article.select_one("h2") or article.select_one("h3") or article.select_one("a.title")
@@ -75,12 +72,14 @@ def parse_blog_html(html_content):
             if link.startswith("/"):
                 link = f"https://www.wirtschaftsarchive.de{link}"
 
-            blog_posts.append({
-                "title": title,
-                "date": date_obj,
-                "description": description,
-                "link": link,
-            })
+            blog_posts.append(
+                {
+                    "title": title,
+                    "date": date_obj,
+                    "description": description,
+                    "link": link,
+                }
+            )
 
         return blog_posts
     except Exception as e:
@@ -128,5 +127,24 @@ def main():
         logger.error(f"Failed to generate RSS feed: {e!s}")
         return False
 
+
 if __name__ == "__main__":
+    main()
+
+
+def main():
+    try:
+        html_content = fetch_blog_content()
+        blog_posts = parse_blog_html(html_content)
+        if not blog_posts:
+            return False
+        feed = generate_rss_feed(blog_posts)
+        save_rss_feed(feed, FEED_NAME)
+        return True
+    except Exception as e:
+        logger.error(f"Failed to generate RSS feed: {e!s}")
+        return False
+
+if __name__ == "__main__":
+>>>>>>> ef08fbe1ccc89bea5649656b2a884c4e2bd2f35d
     main()

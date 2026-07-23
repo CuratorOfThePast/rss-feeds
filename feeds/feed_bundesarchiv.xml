@@ -13,7 +13,7 @@
       <link>https://www.bundesarchiv.de/aktuelles/</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:39:20 +0000</lastBuildDate>
     <item>
       <title>"Eine sehr gute Entscheidung"</title>
       <link>https://www.bundesarchiv.de/nachricht/eine-sehr-gute-entscheidung/</link>
@@ -1893,7 +1893,7 @@
     <item>
       <title>Einschränkungen der Antragsbearbeitung beim Stasi-Unterlagen-Archiv</title>
       <link>https://www.bundesarchiv.de/nachricht/einschraenkungen-der-antragsbearbeitung-beim-stasi-unterlagen-archiv/</link>
-      <description>Aufgrund größerer baulich-technischer Beeinträchtigungen in der Registratur der Zentralstelle des Stasi-Unterlagen-Archivs kann es bis Ende 2026 zu Einschränkungen in der Antragsbearbeitung kommen.</description>
+      <description>Aufgrund größerer baulich-technischer Beeinträchtigungen in der Registratur der Zentralstelle des Stasi-Unterlagen-Archivs kann es bis Ende 2028 zu Einschränkungen in der Antragsbearbeitung kommen.</description>
       <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/einschraenkungen-der-antragsbearbeitung-beim-stasi-unterlagen-archiv/</guid>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
     </item>
@@ -2136,11 +2136,32 @@
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Einige Online-Anwendungen vorübergehend nicht verfügbar</title>
-      <link>https://www.bundesarchiv.de/nachricht/einige-online-anwendungen-voruebergehend-nicht-verfuegbar/</link>
-      <description>Vom 17. bis 19. April 2026 sind einige Online-Anwendungen des Bundesarchivs nicht verfügbar.</description>
-      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/einige-online-anwendungen-voruebergehend-nicht-verfuegbar/</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Girls‘ und Boys‘ Day 2026 im Bundesarchiv</title>
+      <link>https://www.bundesarchiv.de/nachricht/girls-und-boys-day-2026-im-bundesarchiv/</link>
+      <description>Was passiert in einem Magazin? Wie wird Geschichte archiviert? Welche Aufgaben hat die Verwaltung des Bundesarchivs? Knapp 100 Jugendliche im Alter von 13 bis 18 Jahren gingen diesen und weiteren Fragen beim diesjährigen Girls‘ und Boys‘ Day am 23. April 2026 im Bundesarchiv auf den Grund.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/girls-und-boys-day-2026-im-bundesarchiv/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zwischen Fakten und Fake News</title>
+      <link>https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit/</link>
+      <description>Posten, teilen, kommentieren – nie war es so einfach, Informationen zu konsumieren und zu verbreiten. Gleichzeitig fällt es vielen Menschen schwer, Fakten von Desinformation zu unterscheiden. Vor diesem Hintergrund hatten 120 Schülerinnen und Schüler am 28. April 2026 Gelegenheit, sich intensiv mit den Themen Pressefreiheit, Desinformation und Informationskompetenz auseinanderzusetzen. Anlass war der Tag der Pressefreiheit in der Stasi-Zentrale. Campus für Demokratie in Berlin.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/tag-der-pressefreiheit/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ein neues Kino für Berlin-Lichterfelde</title>
+      <link>https://www.bundesarchiv.de/nachricht/ein-neues-kino-fuer-berlin-lichterfelde/</link>
+      <description>Im Mai ist die neue Filmreihe „Lichterfilme“ des Bundesarchivs gestartet. Damit hat der Ortsteil Lichterfelde im Südwesten Berlins sein eigenes Kino bekommen: Monatlich präsentiert das Bundesarchiv in seinem Benutzungszentrum filmhistorische Raritäten und Entdeckungen aus dem Filmarchiv.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/ein-neues-kino-fuer-berlin-lichterfelde/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Töne der Repression“: Online-Audio-Edition macht DDR-Spionageprozesse hörbar</title>
+      <link>https://www.bundesarchiv.de/nachricht/toene-der-repression/</link>
+      <description>Die neue Online-Audio-Edition „Töne der Repression“ des Bundesarchiv – Stasi-Unterlagen-Archiv macht Tonaufnahmen von DDR-Spionageprozessen über einen Online-Audioplayer zugänglich und öffnet so neue Perspektiven auf die Inszenierung von Gerichtsprozessen und die Arbeit der Geheimdienste im Kalten Krieg. Am 17. Juni 2026 wurde „Töne der Repression“ beim offiziellen Launch in der ehemaligen Stasi-Zentrale in Berlin-Lichtenberg vorgestellt.</description>
+      <guid isPermaLink="false">https://www.bundesarchiv.de/nachricht/toene-der-repression/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
