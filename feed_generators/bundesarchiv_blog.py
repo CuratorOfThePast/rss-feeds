@@ -1,11 +1,10 @@
 from datetime import datetime
-from pathlib import Path
 
 import pytz
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
-from utils import fetch_page, save_rss_feed, setup_feed_links, setup_logging, get_project_root
+from utils import fetch_page, get_project_root, save_rss_feed, setup_feed_links, setup_logging
 
 logger = setup_logging()
 
@@ -22,15 +21,15 @@ def fetch_blog_content(url=BLOG_URL):
     local_files = [
         project_root / LOCAL_FILE_NAME,
         project_root / "Aktuelles aus dem Bundesarchiv - Bundesarchiv.htm",
-        project_root / "@Aktuelles aus dem Bundesarchiv - Bundesarchiv.htm"
+        project_root / "@Aktuelles aus dem Bundesarchiv - Bundesarchiv.htm",
     ]
-    
+
     for local_path in local_files:
         if local_path.exists():
             logger.info(f"Reading from local file for development: {local_path}")
-            with open(local_path, "r", encoding="utf-8") as f:
+            with open(local_path, encoding="utf-8") as f:
                 return f.read()
-    
+
     try:
         logger.info(f"Fetching blog content from URL: {url}")
         return fetch_page(url)
@@ -47,15 +46,15 @@ def parse_blog_html(html_content):
 
         # Find all blog post articles
         # Based on the structure: <article class="item" ...>
-        articles = soup.select('article.item')
+        articles = soup.select("article.item")
 
         for article in articles:
             # Extract title
             # <h3 class="underlined" ...><span>Title</span></h3>
             title_elem = article.select_one("h3.underlined span")
             if not title_elem:
-                title_elem = article.select_one("h3") # Fallback
-            
+                title_elem = article.select_one("h3")  # Fallback
+
             if not title_elem:
                 logger.warning("Skipping post: no title found")
                 continue
@@ -89,11 +88,11 @@ def parse_blog_html(html_content):
             if not link_elem or not link_elem.get("href"):
                 # Fallback: check if the headline itself is a link or redirects
                 link_elem = article.select_one("a[href]")
-            
+
             if not link_elem or not link_elem.get("href"):
                 logger.warning(f"Skipping post '{title}': no link found")
                 continue
-            
+
             link = link_elem["href"]
             if link.startswith("/"):
                 link = f"https://www.bundesarchiv.de{link}"
@@ -126,7 +125,10 @@ def generate_rss_feed(blog_posts, feed_name=FEED_NAME):
 
         # Set feed metadata
         fg.author({"name": "Bundesarchiv"})
-        fg.logo("https://www.bundesarchiv.de/typo3conf/ext/dreipc_bstu/Resources/Public/Frontend/assets/media/ci/logo_bundesarchiv.svg")
+        fg.logo(
+            "https://www.bundesarchiv.de/typo3conf/ext/dreipc_bstu/Resources/Public/Frontend/assets/"
+            "media/ci/logo_bundesarchiv.svg"
+        )
         fg.subtitle("Neueste Nachrichten aus dem Bundesarchiv")
 
         # Add entries
