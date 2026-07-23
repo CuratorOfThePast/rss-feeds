@@ -4,7 +4,6 @@ from pathlib import Path
 from urllib.parse import urljoin
 
 import pytz
-import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
@@ -18,6 +17,7 @@ from feed_generators.utils import fetch_page, get_project_root, save_rss_feed, s
 FEED_NAME = "wirtschaftsarchive"
 BLOG_URL = "https://www.wirtschaftsarchive.de/aktuelles/mitteilungen/"
 LOCAL_FILE_NAME = "wirtschaftsarchive_mitteilungen.htm"
+
 
 def fetch_blog_content(url=BLOG_URL):
     project_root = get_project_root()
@@ -42,7 +42,7 @@ def parse_blog_html(html_content):
         soup = BeautifulSoup(html_content, "html.parser")
         blog_posts = []
 
-        # Gezielt nur Artikel der News-Liste erfassen (ignoriert Navigation & Header/Footer)
+        # Gezielt nur Artikel der News-Liste erfassen
         articles = soup.select("article.news-teaser")
         if not articles:
             articles = soup.select(".news-list__item, .news-teaser")
@@ -52,7 +52,7 @@ def parse_blog_html(html_content):
             headline_elem = article.select_one(".news-teaser__headline") or article.select_one("h3, h2")
             if not headline_elem:
                 continue
-            
+
             title = headline_elem.get_text(strip=True)
 
             category_elem = article.select_one(".news-teaser__category")
@@ -74,7 +74,8 @@ def parse_blog_html(html_content):
                 # Versuch B: Aus dem HTML-Inhalt (z. B. "14.07.2026")
                 if not date_obj:
                     with suppress(ValueError):
-                        date_obj = datetime.strptime(date_elem.get_text(strip=True), "%d.%m.%Y").replace(tzinfo=pytz.UTC)
+                        date_text = date_elem.get_text(strip=True)
+                        date_obj = datetime.strptime(date_text, "%d.%m.%Y").replace(tzinfo=pytz.UTC)
 
             # Standard-Fallback, falls kein Datum geparst werden konnte
             if not date_obj:
@@ -100,7 +101,7 @@ def parse_blog_html(html_content):
                 }
             )
 
-        # Dubletten entfernen & absteigend nach Datum sortieren
+        # Dubletten entfernen & aufsteigend nach Datum sortieren
         unique_posts = {(p["link"], p["title"]): p for p in blog_posts}.values()
         return sorted(list(unique_posts), key=lambda x: x["date"], reverse=False)
 
