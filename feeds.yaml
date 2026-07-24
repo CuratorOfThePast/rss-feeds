@@ -10,3 +10,21 @@ feeds:
     script: bundesarchiv_blog.py
     type: requests
     blog_url: https://www.bundesarchiv.de/aktuelles/
+
+feeds:
+  archivportal-d:
+    script: archivportal.py
+    type: requests
+    blog_url: https://www.archivportal-d.de/content/aktuelles
+    enabled: true
+    title: Aktuelles vom Archivportal-D
+    description: aktuelle Neuigkeiten aus dem Archivportal-D
+    selectors:
+      article_selector: ".item"
+      title_selector: ".title a"
+      link_selector: ".title a"
+      description_selector: ".description"
+      date_selector: ".date"
+      date_attr: ""
+      date_format: "%d.%m.%Y"
+      base_url: "https://www.archivportal-d.de"
