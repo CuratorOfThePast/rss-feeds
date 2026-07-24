@@ -35,8 +35,7 @@ jobs:
         run: |
           set -e
           uv sync
-          uv run python feed_generators/bundesarchiv_blog.py
-          uv run python vdw.py
+          uv run python feed_generators/run_all_feeds.py
 
       - name: Commit and push feeds
         if: github.ref == 'refs/heads/main'
