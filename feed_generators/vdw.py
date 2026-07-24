@@ -103,7 +103,7 @@ def parse_blog_html(html_content):
 
         # Dubletten entfernen & aufsteigend nach Datum sortieren
         unique_posts = {(p["link"], p["title"]): p for p in blog_posts}.values()
-        return sorted(list(unique_posts), key=lambda x: x["date"], reverse=False)
+        return sorted(unique_posts, key=lambda x: x["date"], reverse=False)
 
     except Exception as e:
         print(f"Error parsing HTML content: {e}")

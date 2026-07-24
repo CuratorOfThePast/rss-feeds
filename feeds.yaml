@@ -1,8 +1,9 @@
 # Feed Registry -- single source of truth for all feed generators.
 #
-# To add a new feed:
-#   1. Create feed_generators/<name>.py
-#   2. Add an entry here
+# To add a new feed without writing Python code:
+#   1. Add an entry here using the generic generator
+#   2. Adapt the selectors to the target website
+#   3. Run: uv run python feed_generators/run_all_feeds.py --feed <name>
 
 feeds:
   bundesarchiv:

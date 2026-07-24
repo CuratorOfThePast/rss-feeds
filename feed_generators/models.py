@@ -2,6 +2,7 @@
 
 from enum import StrEnum
 from pathlib import Path
+from typing import Any
 
 import yaml
 from pydantic import BaseModel, field_validator
@@ -20,6 +21,10 @@ class FeedConfig(BaseModel):
     type: FeedType
     blog_url: str
     enabled: bool = True
+    title: str | None = None
+    description: str | None = None
+    local_file_name: str | None = None
+    selectors: dict[str, Any] | None = None
 
     @field_validator("script")
     @classmethod
